@@ -1,0 +1,4 @@
+markdown:  kramdown
+baseurl:   /ShenipsitStriders.github.io
+exclude:   ["README.md", ".gitignore"]
+permalink: date

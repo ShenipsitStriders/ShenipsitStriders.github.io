@@ -2,4 +2,5 @@
 layout: default
 ---
 
-{{content}}
+# About Us
+We are awesome
