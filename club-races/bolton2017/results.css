@@ -1,0 +1,40 @@
+html {
+    font-size: 100%;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: black;
+}
+
+body {
+    background: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+table, th, td {
+    border: 1px solid darkgrey;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+tr {
+    background-color: white;
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey;
+}
+
+@media screen and (min-width: 4in) {
+    body {
+        margin: 50px;
+        padding: 10px 30px 30px 30px;
+        background: white url("../../_old/images/Shenipsit-Striders-greenonmango.jpg") no-repeat top right;
+        background-size: 90px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        background-size: 120px;
+    }
+}
