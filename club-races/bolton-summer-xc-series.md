@@ -6,14 +6,14 @@ layout: club-races
 
 ## Dates
 
-**Wednesdays during mid-Summer 2017.**
+**Wednesdays during mid-Summer 2018.**
 
-* **June 28, 2017**
-* **July 5, 2017**
-* **July 12, 2017**
-* **July 19, 2017**
-* **July 26, 2017**
-* **August 2, 2017**
+* **June 20, 2018**
+* **June 27, 2018**
+* **July 11, 2018**
+* **July 18, 2018**
+* **July 25, 2018**
+* **August 1, 2018**
 
 ## Times
 
@@ -33,13 +33,7 @@ layout: club-races
 
 **All 3 races are entirely off-road.**
 
-## Points/Awards
-
-Points will be awarded after each race in each age category.\\
-Following each race, points and results will be posted on [LightBox Registration](http://www.lightboxreg.com/){: target="_blank"} and a direct link to results will be posted on this web page. Prizes will be presented to the top point scorers at the end of the final race of the series (August 2).\\
-*To be eligible for points/prizes, a competitor **MUST** [register](#registration) for the entire series. Points will be calculated for series participants only.*
-
-### Results
+## 2017 Results
 
   <ul>
   <li><a href="./bolton2017/adultweek1.html" target="_blank">Adult Race Week 1</a></li>
@@ -63,15 +57,7 @@ Following each race, points and results will be posted on [LightBox Registrati
 
 Age as of the first race in which one competes will be used.
 
-## [Registration](http://www.lightboxreg.com/bolton-summer-series){: target="_blank"}
-
-*All proceeds benefit local highschool athletic teams*
-
-Register at [http://www.lightboxreg.com/bolton-summer-series](http://www.lightboxreg.com/bolton-summer-series){: target="_blank"}
-
-**Advance registration is required for the children's and adults' races.** (No advance registration is required for the toddler race.) Individuals may register for the entire series, or for single races. To be eligible for points/prizes at the end of the series, a competitor MUST register for the entire series (all 6 races). Registration for individual races is available up until the Monday before the race at noon (i.e. June 28 must register by June 26 at noon). Series registration shuts down the Monday before the series starts, at noon.
-
-### Entry Fees
+## Entry Fees
 
 * Toddlers' Race (4 & under) - Free‼
 * Childrens' Race (5 through 13) - $2 per race, or $10 if pre-registered for the series
@@ -83,11 +69,6 @@ Register at [http://www.lightboxreg.com/bolton-summer-series](http://www.lightbo
 We will run through all weather **except for lightening**. Should a thunderstorm begin during a race, we will delay if possible, cancel if necessary. We will **NOT** cancel for predicted thunderstorms since the predictions are often wrong. Most likely, if you show up, we will be there to time you!\\
 *There will be no refunds due to weather.*
 
-## Sponsors
-
-![Integrated Rehabilitation Services Logo](../images/OutlookEmoji-1467822718756_PastedImage.png){: title="Integrated Rehabilitation Services"}
-: Integrated Rehabilitation Services
-
 ## More Information
 
 For more pictures, information and fun facts, go to our FaceBook page:\\
@@ -95,6 +76,6 @@ For more pictures, information and fun facts, go to our FaceBook page:\\
 
 [Rose Farm (Bolton Heritage Farm)](http://www.campjohnson.org/Download/RoseFarmBrochure.pdf){: target="_blank"}
 
-## Race Director
-Rachel Tambling\\
+## Contact Us
+
 [boltonsummerxc@shenipsitstriders.org](mailto:boltonsummerxc@shenipsitstriders.org)
