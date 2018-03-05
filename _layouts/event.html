@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section class="container">
+
+<h1>{{ page.title }}</h1>
+<p>{{ page.meta }}</p>
+
+<h2>Date</h2>
+<dl>
+{% for event in page.event %}
+  {% capture hh_mm %}
+    {{event.time | date:"%R"}}
+  {% endcapture %}
+<dt>{{ event.name }}</dt>
+<dd><time datetime="{{ event.time }}">{{ event.time | date:"%A, %B %d %Y" }}{% unless hh_mm contains '00:00' %}{{ event.time | date:", at%l:%M %p" }}{% endunless %}</time></dd>
+{% endfor %}
+</dl>
+
+{{ content }}
+
+</section>

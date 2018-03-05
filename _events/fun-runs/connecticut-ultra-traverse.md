@@ -1,18 +1,19 @@
 ---
-layout: fun-runs
+layout: event
+title: Connecticut Ultra Traverse (CUT) 112
+meta: A trail running event following the Blue Blazes of the New England Trail from the MA-CT border to the Long Island Sound in Guilford, CT
+event: 
+  - name: Start
+    time: "2018-06-02T08:00:00-04:00"
+  - name: Finish
+    time: "2018-06-03"
 ---
 
-# Connecticut Ultra Traverse (CUT) 112
+## Description
 
 The **Connecticut Ultra Traverse (CUT) 112** is a run that covers the length of the state of Connecticut from North to South. 
 Some will run the entire State and some will run shorter distances relay style.  Others will graciously offer support and logistics.  We estimate the total distance to be about 112 miles, so we welcome all the support we can get, at any pace.
 
-## Date
-Saturday, June 2 & Sunday, June 3, 2018
-
-Starting Saturday June 2nd at 8:00 AM
-
-## Description
 On June 2-3 at 8:00 AM we will be running the New England Trail from the MA-CT border to the Long Island Sound in Guilford, CT. This is where we will organize our 112 mile run.
 Some will run the entire State and some will run shorter distances relay style.  Others will graciously offer support and logistics.  We estimate the total distance to be about 112 miles, so we welcome all the support we can get, at any pace.
 

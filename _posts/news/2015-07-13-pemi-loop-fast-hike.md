@@ -1,8 +1,10 @@
 ---
-layout: posts
+layout: post
 title: "Pemi Loop Fast Hike"
 author: Rafale
 date: "2015-07-13T16:05:40+00:00"
+categories: [uncategorized]
+tags: []
 ---
 
 The weekend of August 15th Steve L. and a few others are fast hiking the Pemi Loop.

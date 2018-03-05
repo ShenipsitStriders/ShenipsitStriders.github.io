@@ -1,8 +1,10 @@
 ---
-layout: posts
+layout: post
 title: "7 Sisters Course Training Run"
 author: Rafale
 date: "2015-04-02T12:41:43+00:00"
+categories: [training-runs]
+tags: [7-sisters, training-run]
 ---
 
 **Date: Saturday, April 4 2015, at 10 AM**

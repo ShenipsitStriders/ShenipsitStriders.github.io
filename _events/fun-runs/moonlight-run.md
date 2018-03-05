@@ -1,12 +1,11 @@
 ---
-layout: fun-runs
+layout: event
+title: Moonlight Run
+meta: The Moonlight Run is the annual run by moonlight around Soapstone Mountain and to the top of the fire tower. Come to enjoy the beauty of the moonlit forest!
+event: 
+  - name: Moonlight Run
+    time: "2018-01-27T20:30:00-05:00"
 ---
-
-# Moonlight Run
-The **Moonlight Run** is the annual run by moonlight around [Soapstone Mountain](http://www.ct.gov/deep/shenipsit){:target="_blank"} and to the top of the fire tower. Come to enjoy the beauty of the moonlit forest!
-
-## Date
-Saturday, January 27 2018, at 8:30 PM
 
 ## Location
 [Gulf Rd parking lot](https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en){:target="_blank"} in the Shenipsit State Forest

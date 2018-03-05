@@ -1,8 +1,10 @@
 ---
-layout: posts
+layout: post
 title: "Metacomet Trail Training Run"
 author: Rafale
 date: "2015-04-04T15:55:22+00:00"
+categories: [uncategorized]
+tags: []
 ---
 
 **Date: Sunday, April 5 2015, at 9 AM**

@@ -1,12 +1,11 @@
 ---
-layout: fun-runs
+layout: event
+title: New Year Fatass
+meta: The New Year Fatass is our annual run to kick off the new year.
+event: 
+  - name: New Year Fatass
+    time: "2018-01-01T08:00:00-04:00"
 ---
-
-# New Year Fatass
-The **New Year Fatass** is our annual run to kick off the new year.
-
-## Date
-Monday, January 1 2018, at 8:00 AM
 
 ## Location
 [Valley Falls Park](https://www.google.com/maps/dir//Valley+Falls+Park,+300+Valley+Falls+Rd,+Vernon,+CT+06066/@41.8234, -72.4433,13z){: target="_blank"} in Vernon, CT
