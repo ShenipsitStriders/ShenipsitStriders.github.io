@@ -17,3 +17,12 @@ The [Connecticut Ultra Traverse]({{site.baseurl}}/fun-runs/connecticut-ultra-tra
 
 The [Shenipsit Trail End-to-End]({{site.baseurl}}/fun-runs/shenipsit-trail-end-to-end.html), our club run along the length of the Shenipsit Trail, the weekend following Thanksgiving.
 : 11-24-2018
+
+events
+
+{% assign event_array = site.events | sort: 'time' %}
+{% for event in event_array %}
+[{{ event.title }}]({{ event.url }}.html)
+: {{ event.meta }}
+: {{ event.event[0].time | date:"%A, %B %d %Y" }}
+{% endfor %}
