@@ -57,7 +57,11 @@ layout: club-races
 
 Age as of the first race in which one competes will be used.
 
-## Entry Fees
+## Registration
+
+To pre-register, fill out the online registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSeh36D4rcDiJXsRfjPJBIjnoPc6fP9WKuBZL9NJsyhEFPYeYQ/viewform){: target="_blank"}
+
+### Entry Fees
 
 * Toddlers' Race (4 & under) - Free‼
 * Childrens' Race (5 through 13) - $2 per race, or $10 if pre-registered for the series
