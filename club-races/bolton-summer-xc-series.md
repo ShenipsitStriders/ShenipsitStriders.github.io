@@ -59,7 +59,7 @@ Age as of the first race in which one competes will be used.
 
 ## Registration
 
-To pre-register, fill out the online registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSeh36D4rcDiJXsRfjPJBIjnoPc6fP9WKuBZL9NJsyhEFPYeYQ/viewform){: target="_blank"}
+To pre-register, fill out the online registration form [here](https://docs.google.com/forms/d/e/1FAIpQLSeh36D4rcDiJXsRfjPJBIjnoPc6fP9WKuBZL9NJsyhEFPYeYQ/viewform){: target="_blank"}\\
 Race-day registration is also available this year
 
 ### Entry Fees
