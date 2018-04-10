@@ -49,7 +49,14 @@ Distinctive *organic cotton* T-shirts are available for $20. Guarantee yours by 
 Free camping is available in the RRRC campground Saturday night for those pre-registered (please email the RD). There are no changing or shower facilities.
 
 ## Registration
+
+### Online Registration
+
 Register online at [Ultrasignup](https://ultrasignup.com/register.aspx?did=50996){: target="_blank"}.
+
+### Mail-in Registration
+
+If you prefer mail-in registration, download and print the registration form [here]({{site.baseurl}}/maps/2018SoapstonePreregistrationForm.pdf){: target="_blank"}
 
 ### Entry Fees
 
