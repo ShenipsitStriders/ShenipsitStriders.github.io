@@ -6,7 +6,7 @@ future: true
 excerpt_separator: "\n"
 collections:
   events:
-    permalink: /:path
+    permalink: /:path:output_ext
     output: true
   posts:
     permalink: /:year/:month/:day/:title:output_ext
