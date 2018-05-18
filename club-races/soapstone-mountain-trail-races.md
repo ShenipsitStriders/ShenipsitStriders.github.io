@@ -29,8 +29,8 @@ There will be **3 or more aid stations** along the course with at least water.
 #### Cutoffs
 Runners should reach
 
-* Aid Station 2 or equivalently the 11.5-km mark in a time **≤ 2.5 hs**, AND
-* Aid Station 3 or equivalently the 19.5-km mark in a time **≤ 3.25 hs**.
+* Aid Station 2 (approximately the 8 mile mark) in a time **≤ 2.5 hs**, AND
+* Aid Station 3 (approximately the 12.5 mile mark) in a time **≤ 3.5 hs**.
 
 
 ### 6 km Jerry Stage Sampler
