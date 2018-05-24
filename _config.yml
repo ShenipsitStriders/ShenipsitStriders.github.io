@@ -1,4 +1,4 @@
 markdown:  kramdown
 baseurl:   /ShenipsitStriders.github.io
-exclude:   ["README.md", ".gitignore"]
+exclude:   ["README.md", ".gitignore", "compileanddeploy.sh", "config.sh", "config.sh.example"]
 permalink: date
