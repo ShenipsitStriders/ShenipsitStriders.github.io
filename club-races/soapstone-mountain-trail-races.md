@@ -11,14 +11,14 @@ The **Soapstone Mountain Trail Races** take place mainly in the [Shenipsit State
 **34th Soapstone Mountain Trail Races**
 
 ## Results
-Found on [Rat Race Timing](http://aratrace.com/soapstone-mountain-trail-races-3/){: title="Soapstone Mountain Results" target="_blank"}
+Found on [Rat Race Timing](http://aratrace.com/soapstone-mountain-trail-races-4/){: title="Soapstone Mountain Results" target="_blank"}
 
 ## Location
 <p><a href="http://www.rrrclub.org/" target="_blank">Reddington Rock Riding Club</a><br />
 <a href="https://www.google.com/maps/place/93+Handel+Rd,+Stafford,+CT+06076/@41.9594363,-72.4005459,17z/data=!3m1!4b1!4m2!3m1!1s0x89e6f2751fad0143:0x157a4407e9f30641" target="_blank">93 Handel Rd, Stafford Springs, CT 06076</a></p>
 
 ## Courses
-Both [courses](http://shenipsitstriders.org/wp-content/uploads/2014/12/soapstone_courses_map.pdf){: target="_blank"} cover varying quality dirt roads, unused logging roads, narrow footpaths and a rocky streambed.
+Both courses cover varying quality dirt roads, unused logging roads, narrow footpaths and a rocky streambed.
 
 ### 24 km Race
 The course has a length of **24 km**.
