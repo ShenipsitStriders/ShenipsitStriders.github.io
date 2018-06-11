@@ -23,7 +23,7 @@ layout: club-races
 
 ## Location
 **Rose Farm (a.k.a. Bolton Heritage Farm).**\\
-[238 Bolton Center Rd, Bolton, CT 06043](https://goo.gl/maps/rHNzB){: target="_blank"}
+[266 Bolton Center Rd, Bolton, CT 06043](https://goo.gl/maps/hrFeqP4eGrz){: target="_blank"}
 
 ## Course
 
