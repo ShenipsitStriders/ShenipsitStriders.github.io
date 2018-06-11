@@ -65,7 +65,7 @@ Race-day registration is also available this year
 ### Entry Fees
 
 * Toddlers' Race (4 & under) - Free‼
-* Childrens' Race (5 through 13) - $2 per race, or $10 if pre-registered for the series
+* Childrens' Race (5 through 13) - $3 per race, or $15 if pre-registered for the series
 * Adult Race - $5 per race, or $25 if pre-registered for the series
 * *By pre-registering for the series, you get 6 races for the price of 5*
 

@@ -9,7 +9,7 @@ The **Nipmuck South Trail Race** is a **14 mi race** that for the most part foll
 Sunday, June 10 2018, at 9 AM
 
 ## Results
-Found on Rat Race Timing: [http://aratrace.com/nipmuck-south-trail-race-2/](http://aratrace.com/nipmuck-south-trail-race-2/){: target="_blank"}
+Found on Rat Race Timing: [http://aratrace.com/nipmuck-south-trail-race-3/](http://aratrace.com/nipmuck-south-trail-race-3/){: target="_blank"}
 
 ## Location
 [Mansfield Hollow State Park](http://www.ct.gov/deep/mansfieldhollow){: target="_blank"}\\
