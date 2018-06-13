@@ -1,0 +1,2 @@
+compileanddeploy.sh text    eol=lf
+config.sh.example   text    eol=lf

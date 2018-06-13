@@ -4,7 +4,8 @@ title: Moonlight Run
 meta: The Moonlight Run is the annual run by moonlight around Soapstone Mountain and to the top of the fire tower. Come to enjoy the beauty of the moonlit forest!
 event: 
   - name: Moonlight Run
-    time: "2018-01-27T20:30:00-05:00"
+    date: "2018-01-27T20:30:00-05:00"
+aasdf: 2
 ---
 
 ## Location

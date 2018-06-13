@@ -1,12 +1,13 @@
 markdown:  kramdown
 baseurl:   /ShenipsitStriders.github.io
-exclude:   [README.md, .gitignore]
+exclude:   ["README.md", ".gitignore", ".gitattributes", "config.sh"]
 permalink: date
 future: true
 excerpt_separator: "\n"
 collections:
-  events:
-    permalink: /:path:output_ext
+  fun-runs:
+    output: true
+  races:
     output: true
   posts:
     permalink: /:year/:month/:day/:title:output_ext

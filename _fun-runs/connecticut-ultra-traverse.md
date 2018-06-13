@@ -4,9 +4,10 @@ title: Connecticut Ultra Traverse (CUT) 112
 meta: A trail running event following the Blue Blazes of the New England Trail from the MA-CT border to the Long Island Sound in Guilford, CT
 event: 
   - name: Start
-    time: "2018-06-02T08:00:00-04:00"
+    date: "2018-06-02T08:00:00-04:00"
   - name: Finish
-    time: "2018-06-03"
+    date: "2018-06-03"
+aasdf: 3
 ---
 
 ## Description
