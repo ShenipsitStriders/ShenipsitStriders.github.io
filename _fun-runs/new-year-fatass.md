@@ -4,7 +4,8 @@ title: New Year Fatass
 meta: The New Year Fatass is our annual run to kick off the new year.
 event: 
   - name: New Year Fatass
-    time: "2018-01-01T08:00:00-04:00"
+    date: "2018-01-01T08:00:00-05:00"
+aasdf: 1
 ---
 
 ## Location

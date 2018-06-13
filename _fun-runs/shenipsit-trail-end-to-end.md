@@ -4,7 +4,8 @@ title: Shenipsit Trail End-to-End
 meta: The Shenipsit Trail End-to-End is the annual run on the entirety of the blue-blazed Shenipsit Trail.
 event: 
   - name: Shenipsit Trail End-to-End
-    time: "2018-11-24"
+    date: "2018-11-24"
+aasdf: 4
 ---
 
 ## Description
