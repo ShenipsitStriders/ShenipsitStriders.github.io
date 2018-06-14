@@ -1,5 +1,21 @@
 ---
-layout: club-races
+layout: event
+title: Bolton Summer XC Series
+meta: Family-friendly cross-country series held on Wednesdays during the summer
+event: 
+  - name: Week 1
+    date: "2018-06-20"
+  - name: Week 2
+    date: "2018-06-27"
+  - name: Week 3
+    date: "2018-07-11"
+  - name: Week 4
+    date: "2018-07-18"
+  - name: Week 5
+    date: "2018-07-25"
+  - name: Week 6
+    date: "2018-08-01"
+image: nipmucksouthgroup.jpg
 ---
 
 # Bolton Summer XC Series

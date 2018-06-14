@@ -1,5 +1,13 @@
 ---
-layout: club-races
+layout: event
+title: Soapstone Mountain Trail Races
+meta: Two classic events taking place in Shenipsit State Forest - the Soapstone Mountain 24k and the 6k Jerry Stage Sampler
+event: 
+  - name: Soapstone Mountain 24k
+    date: "2018-05-20T09:00:00-04:00"
+  - name: Jerry Stage 6k
+    date: "2018-05-20T09:30:00-04:00"
+image: 0612Case.jpg
 ---
 
 # Soapstone Mountain Trail Race

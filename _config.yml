@@ -7,7 +7,7 @@ excerpt_separator: "\n"
 collections:
   fun-runs:
     output: true
-  races:
+  club-races:
     output: true
   posts:
     permalink: /:year/:month/:day/:title:output_ext

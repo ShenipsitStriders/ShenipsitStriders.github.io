@@ -1,0 +1,11 @@
+{% capture all_dates %}{% for event in site.fun-runs %}{{ event.event[0].date }},{% endfor %}{% endcapture %}
+
+{% assign dates_array = all_dates | split: "," | sort %}
+              
+{% for date in dates_array %}
+{% for event in site.fun-runs %}
+{% if event.event[0].date == date %}
+<a class="dropdown-item" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
+{% endif %}
+{% endfor %}
+{% endfor %}

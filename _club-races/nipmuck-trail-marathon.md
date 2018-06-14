@@ -4,9 +4,10 @@ title: NipMuck Trail Marathon
 meta: A classic old-school trail race taking place along a northern section of the Nipmuck Trail
 event: 
   - name: NipMuck Trail Marathon 26.4
-    time: "2018-09-30T08:00:00-04:00"
+    date: "2018-09-30T08:00:00-04:00"
   - name: NipMuck Relay
-    time: "2018-09-30T08:00:00-04:00"
+    date: "2018-09-30T08:00:00-04:00"
+image: nipmucksouthgroup.jpg
 ---
 
 
