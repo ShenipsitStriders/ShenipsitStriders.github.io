@@ -5,7 +5,22 @@ layout: default
 <section class="container">
 
 <h1>{{ page.title }}</h1>
-<p>{{ page.meta | markdownify }}</p>
+{% if page.meta %}
+  {{ page.meta | slice: 0, 164 | markdownify }}
+{% endif %}
+
+{% if page.results %}
+  {% capture event_year %}
+    {{ page.event[0].date | date:"%Y" }}
+  {% endcapture %}
+  {% capture results_year %}
+    {{ page.results[0].year | plus:0 }}
+  {% endcapture %}
+  {% if results_year >= event_year %}
+    <h2>{{ page.results[0].year }} Results</h2>
+    <p>Results found at: <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">{{ page.results[0].url }}</a></p>
+  {% endif %}
+{% endif %}
 
 <h2>Date</h2>
 <dl>
@@ -18,6 +33,46 @@ layout: default
 {% endfor %}
 </dl>
 
+{% if page.location %}
+<h2>Location</h2>
+<p><a href="{{ page.location[0].map }}" target="_blank">{{ page.location[0].address }}</a></p>
+  {% if page.location[0].website %}
+<p><a href="{{ page.location[0].website }}" target="_blank">More info</a> about the event location</p>
+  {% endif %}
+{% endif %}
+
 {{ content }}
 
+{% if page.registration %}
+<h2>Registration</h2>
+<p>Register online at 
+    <a href="{{ page.registration[0].url }}" target="_blank">{{ page.registration[0].url }}</a>.</p>
+    {% if page.registration[0].add_info %}
+      {{ page.registration[0].add_info | markdownify }}
+    {% endif %}
+{% endif %}
+
+{% if page.results %}
+  {% capture event_year %}
+    {{ page.event[0].date | date:"%Y" }}
+  {% endcapture %}
+  {% capture results_year %}
+    {{ page.results[0].year | plus:0 }}
+  {% endcapture %}
+  {% if results_year < event_year %}
+    <h2>{{ page.results[0].year }} Results</h2>
+    <p>Results found at: <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">{{ page.results[0].url }}</a></p>
+  {% endif %}
+{% endif %}
+
+{% if page.race_director %}
+<h2>Race Director</h2>
+<dl>
+  <dt>{{ page.race_director[0].name }}</dt>
+    <dd><a href="mailto:{{ page.race_director[0].email }}">{{ page.race_director[0].email }}</a></dd>
+    {% if page.race_director[0].phone %}
+    <dd><a href="tel:{{ page.race_director[0].phone }}">{{ page.race_director[0].phone }}</a></dd>
+    {% endif %}
+</dl>
+{% endif %}
 </section>

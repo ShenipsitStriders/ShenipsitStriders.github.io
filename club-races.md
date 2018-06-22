@@ -29,7 +29,9 @@ layout: default
     <div class="container">
       <div class="carousel-caption text-left">
         <h1>{{event.title}}</h1>
-        {{ event.meta | markdownify }}
+{% if page.meta %}
+  {{ page.meta | slice: 0, 164 | markdownify }}
+{% endif %}
       </div>
     </div>
   </a>
