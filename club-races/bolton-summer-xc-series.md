@@ -33,20 +33,11 @@ layout: club-races
 
 **All 3 races are entirely off-road.**
 
-## 2017 Results
+## 2018 Results
 
   <ul>
-  <li><a href="./bolton2017/adultweek1.html" target="_blank">Adult Race Week 1</a></li>
-  <li><a href="./bolton2017/kidweek1.html" target="_blank">Children's Race Week 1</a></li>
-  <li><a href="./bolton2017/adultweek2.html" target="_blank">Adult Race Week 2</a></li>
-  <li><a href="./bolton2017/kidweek2.html" target="_blank">Children's Race Week 2</a></li>
-  <li><a href="./bolton2017/adultweek3.html" target="_blank">Adult Race Week 3</a></li>
-  <li><a href="./bolton2017/kidweek3.html" target="_blank">Children's Race Week 3</a></li>
-  <li><a href="./bolton2017/adultweek4.html" target="_blank">Adult Race Week 4</a></li>
-  <li><a href="./bolton2017/kidweek4.html" target="_blank">Children's Race Week 4</a></li>
-  <li><a href="./bolton2017/adultweek5.html" target="_blank">Adult Race Week 5</a></li>
-  <li><a href="./bolton2017/kidweek5.html" target="_blank">Children's Race Week 5</a></li>
-  <li><a href="./bolton2017/pointstotal.html" target="_blank">Points Total</a></li>
+  <li><a href="https://www.webscorer.com/racedetails?raceid=141736&did=157737" target="_blank">Adult Race Week 1</a></li>
+  <li><a href="https://www.webscorer.com/racedetails?raceid=141762" target="_blank">Children's Race Week 1</a></li>
   </ul>
 
 ## Age Groups
