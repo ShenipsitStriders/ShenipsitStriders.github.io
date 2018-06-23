@@ -11,28 +11,21 @@ location:
     map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
 registration: 
   - url: https://goo.gl/forms/x1VSNU29LJbzA53r2
-    add_info: "We offer pre-registration and day-of registration options, but **strongly** encourage pre-registration.
+    add_info: |
+        We offer pre-registration and day-of registration options, but **strongly** encourage pre-registration.
 
+        When preregistering, please fill out the form, with no payment. Payment is collected on race day for both pre-registration and day-of registration.
 
-When preregistering, please fill out the form, with no payment. Payment is collected on race day for both pre-registration and day-of registration.
+        [Pre-register Here](https://goo.gl/forms/x1VSNU29LJbzA53r2){: target="_blank"}
 
+        ### Fees
 
-[Pre-register Here](https://goo.gl/forms/x1VSNU29LJbzA53r2)
+        Pre-registered
+        : Non-members: $10.00
+        : Shenipsit Striders Members: $5.00
 
-
-### Fees
-
-
-Pre-registered
-
-: Non-members: $10.00
-
-: Shenipsit Striders Members: $5.00
-
-
-Day-of registration
-
-: All runners: $15.00"
+        Day-of registration
+        : All runners: $15.00
 race_director: 
   - name: Brad Pellissier
     email: assault@shenipsitstriders.org

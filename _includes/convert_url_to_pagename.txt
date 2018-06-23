@@ -1,0 +1,9 @@
+{%- assign url_path_array = include.page_url | remove: "https" | remove: "http" | remove: "://" | remove: "www." | split: "/" -%}
+{%- case url_path_array[0] -%}
+  {%- when "docs.google.com" -%}
+    Google Docs
+  {%- when "goo.gl" -%}
+    Google Docs
+  {%- else -%}
+    {{ url_path_array[0] | capitalize }}
+{%- endcase -%}

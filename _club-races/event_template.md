@@ -15,10 +15,10 @@ race_director:
     phone: RD phone number (optional)
 registration:
   - url: 
-    add_info: 
-    fees: 
-      - event: 
-        fee: 
+    add_info: |
+        Multi-line text
+      
+        *Markdown supported*
 results: 
   - url: 
     year: 

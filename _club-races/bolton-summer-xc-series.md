@@ -25,24 +25,20 @@ race_director:
     email: boltonsummerxc@shenipsitstriders.org
 registration:
   - url: https://docs.google.com/forms/d/e/1FAIpQLSeh36D4rcDiJXsRfjPJBIjnoPc6fP9WKuBZL9NJsyhEFPYeYQ/viewform
-    add_info: "Race-day registration is also available this year
+    add_info: |
+        Race-day registration is also available this year
 
+        ### Entry Fees
 
-### Entry Fees
+        * Toddlers' Race (4 & under) - Free‼
+        * Childrens' Race (5 through 13) - $2 per race, or $10 if pre-registered for the series
+        * Adult Race - $5 per race, or $25 if pre-registered for the series
+        * *By pre-registering for the series, you get 6 races for the price of 5*
 
-* Toddlers' Race (4 & under) - Free‼
+        ## Weather Policy
 
-* Childrens' Race (5 through 13) - $2 per race, or $10 if pre-registered for the series
-
-* Adult Race - $5 per race, or $25 if pre-registered for the series
-
-* *By pre-registering for the series, you get 6 races for the price of 5*
-
-
-## Weather Policy
-
-We will run through all weather **except for lightening**. Should a thunderstorm begin during a race, we will delay if possible, cancel if necessary. We will **NOT** cancel for predicted thunderstorms since the predictions are often wrong. Most likely, if you show up, we will be there to time you!\\
-*There will be no refunds due to weather.*"
+        We will run through all weather **except for lightening**. Should a thunderstorm begin during a race, we will delay if possible, cancel if necessary. We will **NOT** cancel for predicted thunderstorms since the predictions are often wrong. Most likely, if you show up, we will be there to time you!\\
+        *There will be no refunds due to weather.*
 ---
 
 ## Times

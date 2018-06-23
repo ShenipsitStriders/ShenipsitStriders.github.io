@@ -13,10 +13,10 @@ location:
     map: https://www.google.com/maps/place/390+Perry+Hill+Rd,+Ashford,+CT+06278/@41.879564,-72.1964925,17z/data=!3m1!4b1!4m2!3m1!1s0x89e68ee53e2e06d9:0xfb65c2ad57530606?hl=en
 registration:
   - url: https://ultrasignup.com/register.aspx?eid=2642
-    add_info: "*Due to limitations of parking and trail capacities, the NipMuck Trail Marathon is capped at 180 runners. **There is no race-day registration.***
+    add_info: |
+        *Due to limitations of parking and trail capacities, the NipMuck Trail Marathon is capped at 180 runners. **There is no race-day registration.***
 
-
-    We have never had to cancel due to weather. NipMuck Trail Marathon and Relay maintain a no-refunds policy, regardless of reason or fault."
+        We have never had to cancel due to weather. NipMuck Trail Marathon and Relay maintain a no-refunds policy, regardless of reason or fault.
 race_director:
   - name: Dave Merkt
     email: nipmuck@shenipsitstriders.org

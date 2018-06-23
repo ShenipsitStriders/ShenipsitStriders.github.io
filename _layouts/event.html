@@ -10,15 +10,19 @@ layout: default
 {% endif %}
 
 {% if page.results %}
-  {% capture event_year %}
+  {%- capture resultsurl -%}
+    {{ page.results[0].url }}
+  {%- endcapture -%}
+
+  {%- capture event_year -%}
     {{ page.event[0].date | date:"%Y" }}
-  {% endcapture %}
-  {% capture results_year %}
+  {%- endcapture -%}
+  {%- capture results_year -%}
     {{ page.results[0].year | plus:0 }}
-  {% endcapture %}
+  {%- endcapture -%}
   {% if results_year >= event_year %}
     <h2>{{ page.results[0].year }} Results</h2>
-    <p>Results found at: <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">{{ page.results[0].url }}</a></p>
+    <p>Results found at: <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">{%- include convert_url_to_pagename.txt page_url= resultsurl -%}</a></p>
   {% endif %}
 {% endif %}
 
@@ -44,24 +48,35 @@ layout: default
 {{ content }}
 
 {% if page.registration %}
-<h2>Registration</h2>
-<p>Register online at 
-    <a href="{{ page.registration[0].url }}" target="_blank">{{ page.registration[0].url }}</a>.</p>
-    {% if page.registration[0].add_info %}
-      {{ page.registration[0].add_info | markdownify }}
-    {% endif %}
+
+  {%- capture regurl -%}
+    {{ page.registration[0].url }}
+  {%- endcapture -%}
+
+  <h2>Registration</h2>
+  <p>Register online at 
+      <a href="{{ page.registration[0].url }}" target="_blank">{%- include convert_url_to_pagename.txt page_url= regurl -%}</a></p>
+
+  {% if page.registration[0].add_info %}
+    {{ page.registration[0].add_info | markdownify }}
+  {% endif %}
+
 {% endif %}
 
 {% if page.results %}
-  {% capture event_year %}
+  {%- capture resultsurl -%}
+    {{ page.results[0].url }}
+  {%- endcapture -%}
+
+  {%- capture event_year -%}
     {{ page.event[0].date | date:"%Y" }}
-  {% endcapture %}
-  {% capture results_year %}
+  {%- endcapture -%}
+  {%- capture results_year -%}
     {{ page.results[0].year | plus:0 }}
-  {% endcapture %}
+  {%- endcapture -%}
   {% if results_year < event_year %}
     <h2>{{ page.results[0].year }} Results</h2>
-    <p>Results found at: <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">{{ page.results[0].url }}</a></p>
+    <p>Results found at: <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">{%- include convert_url_to_pagename.txt page_url= resultsurl -%}</a></p>
   {% endif %}
 {% endif %}
 
@@ -70,9 +85,9 @@ layout: default
 <dl>
   <dt>{{ page.race_director[0].name }}</dt>
     <dd><a href="mailto:{{ page.race_director[0].email }}">{{ page.race_director[0].email }}</a></dd>
-    {% if page.race_director[0].phone %}
+    {%- if page.race_director[0].phone -%}
     <dd><a href="tel:{{ page.race_director[0].phone }}">{{ page.race_director[0].phone }}</a></dd>
-    {% endif %}
+    {%- endif -%}
 </dl>
 {% endif %}
 </section>

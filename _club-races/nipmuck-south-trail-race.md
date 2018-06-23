@@ -12,11 +12,11 @@ location:
     website: http://www.ct.gov/deep/mansfieldhollow
 registration:
   - url: http://ultrasignup.com/register.aspx?did=51006
-    add_info: "## Entree Fees
+    add_info: |
+        ## Entree Fees
 
-* $25 for preregisteration at UltraSignup or $30 day-of-race
-
-* The Nipmuck South Trail Race has a no-refund policy"
+        * $25 for preregisteration at UltraSignup or $30 day-of-race
+        * The Nipmuck South Trail Race has a no-refund policy
 race_director: 
   - name: Scott Edington
     email: nipmucksouth@shenipsitstriders.org
