@@ -1,9 +1,14 @@
-{% capture event_start_dates %}{% for event in site.[include.event_type] %}{{ event.event[0].date }}|{% endfor %}{% endcapture %}
-{% assign dates_array = event_start_dates | split: "|" | sort %}
-{% for date in dates_array %}
-{% for event in site.[include.event_type] %}
-{% if event.event[0].date == date %}
-<a class="dropdown-item" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
-{% endif %}
-{% endfor %}
-{% endfor %}
+{%- capture event_start_dates -%}
+  {%- for event in site[include.event_type] -%}
+    {{ event.event[0].date }}|
+  {%- endfor -%}
+{%- endcapture -%}
+
+{%- assign dates_array = event_start_dates | split: "|" | sort -%}
+{%- for date in dates_array -%}
+  {%- for event in site[include.event_type] -%}
+    {% if event.event[0].date == date %}
+      <a class="dropdown-item" href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a>
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
