@@ -35,10 +35,14 @@ layout: club-races
 
 ## 2018 Results
 
-  <ul>
-  <li><a href="https://www.webscorer.com/racedetails?raceid=141736&did=157737" target="_blank">Adult Race Week 1</a></li>
-  <li><a href="https://www.webscorer.com/racedetails?raceid=141762" target="_blank">Children's Race Week 1</a></li>
-  </ul>
+  <dl>
+    <dt>Week 1 - June 20</dt>
+      <dd><a href="https://www.webscorer.com/racedetails?raceid=141736&did=157737" target="_blank">Adult Race Week 1</a></dd>
+      <dd><a href="https://www.webscorer.com/racedetails?raceid=142471" target="_blank">Children's Race Week 1</a></dd>
+    <dt>Week 2 - June 27</dt>
+      <dd><a href="https://www.webscorer.com/racedetails?raceid=142467" target="_blank">Adult Race Week 2</a></dd>
+      <dd><a href="https://www.webscorer.com/racedetails?raceid=142470" target="_blank">Children's Race Week 2</a></dd>
+  </dl>
 
 ## Age Groups
 
