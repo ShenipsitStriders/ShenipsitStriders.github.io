@@ -5,7 +5,6 @@ meta: The Shenipsit Trail End-to-End is the annual run on the entirety of the bl
 event: 
   - name: Shenipsit Trail End-to-End
     date: "2018-11-24"
-aasdf: 4
 ---
 
 ## Description

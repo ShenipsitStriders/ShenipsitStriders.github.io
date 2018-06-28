@@ -5,11 +5,10 @@ meta: The Moonlight Run is the annual run by moonlight around Soapstone Mountain
 event: 
   - name: Moonlight Run
     date: "2018-01-27T20:30:00-05:00"
-aasdf: 2
+location: 
+  - address: Gulf Rd parking lot - Shenipsit State Forest
+    map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
 ---
-
-## Location
-[Gulf Rd parking lot](https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en){:target="_blank"} in the Shenipsit State Forest
 
 ## Description
 Join us for a fun run in and around scenic Soapstone Mountain under a full winter moon. The course can vary but is usually mostly along single-track trails and 3-5 mi long. The finish line is atop the fire tower on Soapstone with an ETA of midnight.

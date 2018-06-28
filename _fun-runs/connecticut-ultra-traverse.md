@@ -7,7 +7,8 @@ event:
     date: "2018-06-02T08:00:00-04:00"
   - name: Finish
     date: "2018-06-03"
-aasdf: 3
+registration:
+  - url: http://ultrasignup.com/register.aspx?did=55410
 ---
 
 ## Description
