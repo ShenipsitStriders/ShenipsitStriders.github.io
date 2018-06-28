@@ -9,8 +9,10 @@ event:
     date: "2018-05-20T09:30:00-04:00"
 image: 0612Case.jpg
 location:
-  - address: Reddington Rock Riding Club, Handel Rd, Stafford, CT
+  - address: 93 Handel Rd, Stafford, CT
     map: https://www.google.com/maps/place/93+Handel+Rd,+Stafford,+CT+06076/@41.9594363,-72.4005459,17z/data=!3m1!4b1!4m2!3m1!1s0x89e6f2751fad0143:0x157a4407e9f30641
+    name: Reddington Rock Riding Club
+    location_url: http://www.rrrclub.org/
 registration: 
   - url: https://ultrasignup.com/register.aspx?did=50996
     add_info: |

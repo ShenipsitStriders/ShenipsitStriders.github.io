@@ -19,9 +19,10 @@ image: nipmucksouthgroup.jpg
 location:
   - address: Rose Farm (a.k.a. Bolton Heritage Farm), 238 Bolton Center Rd, Bolton, CT 06043
     name: Rose Farm (a.k.a. Bolton Heritage Farm)
+    location_url: http://www.campjohnson.org/Download/RoseFarmBrochure.pdf
     map: https://goo.gl/maps/hrFeqP4eGrz
 race_director: 
-  - name: Bolton Summer XC
+  - name: Mark Mishriky
     email: boltonsummerxc@shenipsitstriders.org
 registration:
   - url: https://docs.google.com/forms/d/e/1FAIpQLSeh36D4rcDiJXsRfjPJBIjnoPc6fP9WKuBZL9NJsyhEFPYeYQ/viewform

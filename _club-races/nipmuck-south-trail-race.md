@@ -7,9 +7,10 @@ event:
     date: "2018-06-10T09:00:00-04:00"
 image: nipmucksouthgroup.jpg
 location: 
-  - address: Mansfield Hollow State Park, Bassetts Bridge Road, Mansfield, CT
+  - address: Bassetts Bridge Road, Mansfield, CT
     map: https://goo.gl/maps/td1kBJcJJFu
-    website: http://www.ct.gov/deep/mansfieldhollow
+    name: Mansfield Hollow State Park
+    location_url: http://www.ct.gov/deep/mansfieldhollow
 registration:
   - url: http://ultrasignup.com/register.aspx?did=51006
     add_info: |
