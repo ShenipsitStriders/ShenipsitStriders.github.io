@@ -10,4 +10,4 @@ collections:
   club-races:
     output: true
   posts:
-    permalink: /:year/:month/:day/:title:output_ext
+    permalink: /posts/:title:output_ext
