@@ -1,13 +1,12 @@
-<url>
-  {% if {{include.entry.url}} == "/" %}
+<url>{% if {{include.entry.url}} == "/" %}
     <loc>http://shenipsitstriders.org{{site.baseurl}}/index.html</loc>
   {% else %}
     <loc>http://shenipsitstriders.org{{site.baseurl}}{{include.entry.url}}</loc>
-  {% endif %}
+  {%- endif -%}
 
   {% if include.entry.changefreq %}
     <changefreq>{{include.entry.changefreq}}</changefreq>
-  {% endif %}
+  {%- endif -%}
 
   {% if include.entry.priority %}
     <priority>{{include.entry.priority}}</priority>
