@@ -17,7 +17,7 @@ event:
     date: "2018-08-01"
 image: nipmucksouthgroup.jpg
 location:
-  - address: Rose Farm (a.k.a. Bolton Heritage Farm), 238 Bolton Center Rd, Bolton, CT 06043
+  - address: 266 Bolton Center Rd, Bolton, CT 06043
     name: Rose Farm (a.k.a. Bolton Heritage Farm)
     location_url: http://www.campjohnson.org/Download/RoseFarmBrochure.pdf
     map: https://goo.gl/maps/hrFeqP4eGrz

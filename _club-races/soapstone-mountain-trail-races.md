@@ -1,6 +1,6 @@
 ---
 layout: event
-title: 34th Soapstone Mountain Trail Races
+title: Soapstone Mountain Trail Races
 meta: Two classic events taking place in Shenipsit State Forest - the Soapstone Mountain 24k and the 6k Jerry Stage Sampler
 event: 
   - name: Soapstone Mountain 24k
@@ -12,7 +12,7 @@ location:
   - address: 93 Handel Rd, Stafford, CT
     map: https://www.google.com/maps/place/93+Handel+Rd,+Stafford,+CT+06076/@41.9594363,-72.4005459,17z/data=!3m1!4b1!4m2!3m1!1s0x89e6f2751fad0143:0x157a4407e9f30641
     name: Reddington Rock Riding Club
-    location_url: http://www.rrrclub.org/
+    location_url: http://reddingtonrockridingclub.org
 registration: 
   - url: https://ultrasignup.com/register.aspx?did=50996
     add_info: |
