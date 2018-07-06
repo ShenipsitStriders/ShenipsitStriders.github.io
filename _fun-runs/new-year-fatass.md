@@ -18,6 +18,8 @@ registration:
         Zip, zilch, nada.
 
         Keeping with the traditional fatass event rules, there is no entry fee. There is also no official support on the course, although there's a good chance that there will be some water, gatorade, and other goodies. **We encourage everyone to bring a treat to share.**
+redirect_from:
+  - /club-races/new-year-fatass.htm
 ---
 
 ## Description

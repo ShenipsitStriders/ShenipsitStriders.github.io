@@ -32,6 +32,8 @@ race_director:
 results: 
   - year: 2018
     url: http://aratrace.com/soapstone-mountain-trail-races-4/
+redirect_from:
+  - /club-races/soapstone-mountain-trail-races.htm
 ---
 
 ## Courses

@@ -29,6 +29,8 @@ registration:
 race_director: 
   - name: Brad Pellissier
     email: assault@shenipsitstriders.org
+redirect_from:
+  - /club-races/soapstone-assault.htm
 ---
 
 ## Course

@@ -25,6 +25,8 @@ race_director:
 results:
   - year: 2018
     url: http://aratrace.com/nipmuck-south-trail-race-3/
+redirect_from:
+  - /club-races/nipmuck-south-trail-race.htm
 ---
 
 ## Course

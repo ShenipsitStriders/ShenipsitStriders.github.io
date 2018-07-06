@@ -40,6 +40,8 @@ registration:
 
         We will run through all weather **except for lightening**. Should a thunderstorm begin during a race, we will delay if possible, cancel if necessary. We will **NOT** cancel for predicted thunderstorms since the predictions are often wrong. Most likely, if you show up, we will be there to time you!\\
         *There will be no refunds due to weather.*
+redirect_from:
+  - /club-races/bolton-summer-xc-series.htm
 ---
 
 ## Times

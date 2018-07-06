@@ -23,7 +23,8 @@ race_director:
 results: 
   - year: 2017
     url: http://www.coolrunning.com/results/17/ct/Oct1_NipMuc_set1.shtml
-    
+redirect_from:
+  - /club-races/nipmuck-trail-marathon.htm
 ---
 
 ## Course
