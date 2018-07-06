@@ -4,10 +4,32 @@ layout: default
 
 <section class="container">
 
+{% if page.categories[0] %}
+<p>categories: 
+  {%- for category in page.categories -%}
+    <span class="cat-links">{{ category }}</span> 
+  {%- endfor -%}
+</p>
+{%- else -%}
+  <p>categories: <span class="cat-links">uncategorized</span></p>
+{% endif %}
+
 <h1>{{page.title}}</h1>
 
-<p><date>{{page.date}}</date></p>
+<p><span title="Posted: {{ page.date | date:"%FT%T%z" }}"><time class="entry-date" datetime="{{ page.date | date:"%FT%T%z" }}">{{ page.date | date:"%A, %B %e, %Y" }}</time></span></p>
 
 {{content}}
+
+
+{% if page.tags[0] %}
+<section>
+  <h2>tags:</h2>
+  <ul>
+  {% for tag in page.tags %}
+    <li>{{ tag }}</li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
 
 </section>
