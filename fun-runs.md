@@ -1,14 +1,18 @@
 ---
 layout: default
+permalink: /fun-runs/index.html
 ---
-
 
 # Fun Runs
 Beyond races, the Shenipsit Striders club also organizes “fun runs” where anyone (not just club members) is invited to participate:
 
-{% capture all_dates %}{% for event in site.fun-runs %}{{ event.event[0].date }},{% endfor %}{% endcapture %}
+{%- capture all_dates -%}
+  {%- for event in site.fun-runs -%}
+    {{ event.event[0].date }},
+  {%- endfor -%}
+{%- endcapture -%}
 
-{% assign dates_array = all_dates | split: "," | sort %}
+{%- assign dates_array = all_dates | split: "," | sort -%}
 
 {% for date in dates_array %}
 {% for event in site.fun-runs %}

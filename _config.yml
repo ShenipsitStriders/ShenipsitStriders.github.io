@@ -1,24 +1,23 @@
 markdown:  kramdown
 baseurl:   /ShenipsitStriders.github.io
 exclude:   
-  - "README.md"
-  - ".git"
-  - ".gitignore"
-  - ".gitattributes"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "config.sh"
+  - README.md
+  - .git
+  - .gitignore
+  - .gitattributes
+  - Gemfile
+  - Gemfile.lock
+  - config.sh
   - _club-races/event_template.md
 permalink: date
 future: true
-excerpt_separator: "\n"
 collections:
   fun-runs:
     output: true
   club-races:
     output: true
   posts:
-    permalink: /posts/:title:output_ext
+    permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap

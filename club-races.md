@@ -1,23 +1,29 @@
 ---
 layout: default
+permalink: /club-races/index.html
 ---
 <header id="home-section">
   <div id="races" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
-      {% for event in site.club-races %}<li data-target="#races" data-slide-to="{% increment data-slide-to %}" {% if forloop.first == true %}class="active"{% endif %}></li>
-      {% endfor %}
+      {% for event in site.club-races %}
+        <li data-target="#races" data-slide-to="{% increment data-slide-to %}" {% if forloop.first == true %}class="active"{% endif %}></li>
+      {%- endfor -%}
     </ol>
-    <div class="carousel-inner">
 
+<div class="carousel-inner">
 
-{% capture all_dates %}{% for event in site.club-races %}{{ event.event[0].date }},{% endfor %}{% endcapture %}
+{%- capture all_dates -%}
+  {%- for event in site.club-races -%}
+    {{ event.event[0].date }},
+  {%- endfor -%}
+{%- endcapture -%}
 
-{% assign dates_array = all_dates | split: "," | sort %}
+{%- assign dates_array = all_dates | split: "," | sort -%}
 
-{% assign carousel-item_active_assigned = false %}        
-{% for date in dates_array %}
-{% for event in site.club-races %}
-{% if event.event[0].date == date %}
+{%- assign carousel-item_active_assigned = false -%}        
+{%- for date in dates_array %}
+{%- for event in site.club-races -%}
+{%- if event.event[0].date == date -%}
 {% if carousel-item_active_assigned == true %}
 <div class="carousel-item">
 {% else %}
@@ -40,8 +46,8 @@ layout: default
 {% endfor %}
 {% endfor %}
         
+</div>
 
-    </div>
     <a class="carousel-control-prev" href="#races" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
