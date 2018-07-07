@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Sleeping Giant State Park Training Run
-author: Rafale
+author: 
+  - display_name: Rafale
+    user_nicename: gafiore
 date: 2015-03-28T16:38:35+00:00
 categories: [Training Runs]
 tags: [sleeping giant, training run]

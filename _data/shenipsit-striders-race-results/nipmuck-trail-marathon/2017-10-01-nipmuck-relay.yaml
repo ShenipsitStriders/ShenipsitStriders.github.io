@@ -1,0 +1,138 @@
+- place: 1
+  time: 3:46:46
+  bib: 1039
+  team_name: Two Fast Old Fools
+  runners:
+    - first: Ned
+      last: Kennedy
+      age: 58
+      gender: M
+      strider: true
+    - first: Keith
+      last: Hurley
+      age: 51
+      gender: M
+- place: 2
+  time: 4:05:18	
+  bib: 1078
+  team_name: WTF- Where's The Finish
+  runners: 
+    - first: Becky
+      last: Iselin
+      age: 41
+      gender: F
+    - first: Rachael
+      last: Whitbeck
+      age: 35
+      gender: F
+- place: 3
+  time: 4:10:24
+  bib: 1070
+  team_name: Muck That I Am Only Doing Half
+  runners: 
+    - first: Chris
+      last: Kelly
+      age: 40
+      gender: M
+      strider: true
+    - first: Ken
+      last: Forrest
+      age: 48
+      gender: M
+      strider: true
+- place: 4
+  time: 4:27:21
+  bib: 1054
+  team_name: Give em Hale
+  runners: 
+    - first: Daniel
+      last: Hale
+      age: 28
+      gender: M
+      strider: true
+    - first: Kate
+      last: Callahan
+      age: 29
+      gender: F
+- place: 5
+  time: 4:28:05
+  bib: 1057
+  team_name: Sloper Mud Slingers
+  runners: 
+    - first: Mike
+      last: Perkowski
+      age: 52
+      gender: M
+    - first: Angela
+      last: Heidgerd
+      age: 46
+      gender: F
+- place: 6
+  time: 4:29:13
+  bib: 1092
+  team_name: Trashcan Squirrels
+  runners: 
+    - first: Maggie
+      last: Ferron
+      age: 37
+      gender: F
+    - first: Ben
+      last: Ristau
+      age: 0
+      gender: M
+- place: 7
+  time: 4:30:53
+  bib: 1024
+  team_name: Team RooperCuby
+  runners: 
+    - first: Dominic
+      last: Wilson
+      age: 46
+      gender: M
+      strider: true
+    - first: Erika
+      last: Lebaron
+      age: 47
+      gender: F
+      strider: true
+- place: 8
+  time: 5:01:30
+  bib: 1050
+  team_name: 2 Dirty Blondes
+  runners: 
+    - first: Colleen
+      last: Malone-Singer
+      age: 45
+      gender: F
+      strider: true
+    - first: Cindy
+      last: Bourassa
+      age: 44
+      gender: F
+      strider: true
+- place: 9
+  time: 5:46:45
+  bib: 1094
+  team_name: Still Crazy after all These Years
+  runners: 
+    - first: Emily
+      last: Huntington
+      age: 62
+      gender: F
+    - first: Dianne
+      last: Nelson
+      age: 54
+      gender: F
+- place: 10
+  time: 6:02:23
+  bib: 1041
+  team_name: Robot Geeks
+  runners: 
+    - first: Emily
+      last: Mayer
+      age: 38
+      gender: F
+    - first: Nick
+      last: Morgan
+      age: 0
+      gender: M

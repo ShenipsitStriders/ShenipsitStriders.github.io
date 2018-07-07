@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 7 Sisters Course Training Run
-author: Rafale
+author: 
+  - display_name: Rafale
+    user_nicename: gafiore
 date: 2015-04-02T12:41:43+00:00
 categories: [Training Runs]
 tags: [7 Sisters, training run]
