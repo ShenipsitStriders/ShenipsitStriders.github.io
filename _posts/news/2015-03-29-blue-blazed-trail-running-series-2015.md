@@ -2,8 +2,8 @@
 layout: post
 title: Blue-Blazed Trail Running Series 2015
 author: 
-  - display_name: Rafale
-    user_nicename: gafiore
+  display_name: Rafale
+  user_nicename: gafiore
 date: 2015-03-29T23:48:54+00:00
 categories: [Local Races]
 tags: [BBHT, Blue-Blazed Trail Running Series, CFPA]

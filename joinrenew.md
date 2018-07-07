@@ -1,8 +1,9 @@
 ---
+title: Join/Renew
 layout: default
 ---
 
-# Join/Renew
+# {{ page.title }}
 
 Joining the Shenipsit Striders trail running club includes the following benefits:
 * 50% off the fee for most club races

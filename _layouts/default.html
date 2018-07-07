@@ -4,8 +4,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="google-site-verification" content="CZUy5fl_f1Z_COHVXxBzNJ_YGftSI2bJR4ay4PXMjLY" />
   {% if page.meta %}<meta name="description" content="{{ page.meta | slice: 0, 164 }}">{% endif %}
-  <title>Shenipsit Striders</title>
+  <title>
+    {%- if page.title -%}
+      {{- page.title | append:" | " -}}
+    {%- endif -%}
+    Shenipsit Striders • Trail Running in New England and Beyond</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
   <style>
       body{

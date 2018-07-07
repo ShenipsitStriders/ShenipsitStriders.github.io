@@ -2,8 +2,8 @@
 layout: post
 title: Pemi Loop Fast Hike
 author: 
-  - display_name: Rafale
-    user_nicename: gafiore
+  display_name: Rafale
+  user_nicename: gafiore
 date: 2015-07-13T16:05:40+00:00
 categories: [Uncategorized]
 redirect_from:

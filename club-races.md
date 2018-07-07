@@ -1,4 +1,5 @@
 ---
+title: Club Races
 layout: default
 permalink: /club-races/index.html
 ---

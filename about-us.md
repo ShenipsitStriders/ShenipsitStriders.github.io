@@ -1,8 +1,9 @@
 ---
+title: About Us
 layout: default
 ---
 
-# About Us
+# {{ page.title }}
 
 We are a group of people ranging from walkers and hikers to speedsters and ultra-runners.
 

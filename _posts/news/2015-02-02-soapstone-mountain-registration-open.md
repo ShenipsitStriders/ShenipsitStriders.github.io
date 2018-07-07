@@ -2,8 +2,8 @@
 layout: post
 title: Soapstone Mountain registration open!
 author: 
-  - display_name: Rafale
-    user_nicename: gafiore
+  display_name: Rafale
+  user_nicename: gafiore
 date: 2015-02-02T18:51:31+00:00
 categories: [Club Races, Soapstone Mountain Trail Races]
 tags: [racing, soapstone mountain, trail]

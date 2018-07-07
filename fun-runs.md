@@ -1,9 +1,11 @@
 ---
+title: Fun Runs
 layout: default
 permalink: /fun-runs/index.html
 ---
 
-# Fun Runs
+# {{ page.title }}
+
 Beyond races, the Shenipsit Striders club also organizes “fun runs” where anyone (not just club members) is invited to participate:
 
 {%- capture all_dates -%}

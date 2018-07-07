@@ -1,8 +1,9 @@
 ---
+title: Contact Us
 layout: default
 ---
 
-# Contact Us
+# {{ page.title }}
 
 The **Shenipsit Striders** trail running club was started in 1975 by a small group of friends in northcentral Connecticut that wanted to get together for weekly runs in the woods. Today, the club has grown to include members from all corners of Connecticut and even a few from other states in the New England region.
 

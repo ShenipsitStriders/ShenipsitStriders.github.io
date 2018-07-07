@@ -1,0 +1,5 @@
+#!/bin/bash
+FTP_USER=""
+FTP_PASS=""
+FTP_SERVER="shenipsitstriders.org"
+WEBSITE_PATH="/web"

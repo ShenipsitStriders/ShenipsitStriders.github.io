@@ -2,8 +2,8 @@
 layout: post
 title: Metacomet Trail Training Run
 author: 
-  - display_name: Rafale
-    user_nicename: gafiore
+  display_name: Rafale
+  user_nicename: gafiore
 date: 2015-04-04T15:55:22+00:00
 categories: [Uncategorized]
 redirect_from:

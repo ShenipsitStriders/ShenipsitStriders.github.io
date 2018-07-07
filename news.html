@@ -1,9 +1,9 @@
 ---
 layout: news
-title: News
+title: Strider News
 ---
 
-<h1>Strider News</h1>
+<h1>{{ page.title }}</h1>
 
 {% assign sorted_posts = site.posts | sort | reverse %}
 {% for post in sorted_posts limit:10 %}
@@ -20,7 +20,7 @@ title: News
   <ol class="breadcrumb"><li class="breadcrumb-item">Uncategorized</li></ol>
 {% endif %}
 
-  <h2><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
+  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h2>
 
   <p><span class="badge badge-secondary" title="Posted: {{ post.date | date:"%FT%T%z" }}"><time class="entry-date" datetime="{{ post.date | date:"%FT%T%z" }}">{{ post.date | date:"%A, %B %e, %Y" }}</time></span></p>
 

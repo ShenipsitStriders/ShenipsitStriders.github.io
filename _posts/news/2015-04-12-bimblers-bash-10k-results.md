@@ -2,8 +2,8 @@
 layout: post
 title: Bimbler’s Bash 10K Results
 author: 
-  - display_name: Rafale
-    user_nicename: gafiore
+  display_name: Rafale
+  user_nicename: gafiore
 date: 2015-04-12T19:03:55+00:00
 categories: [Local Races]
 tags: [Bimbler's Bash 10K, local races]

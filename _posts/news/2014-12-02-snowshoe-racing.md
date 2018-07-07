@@ -2,8 +2,8 @@
 layout: post
 title: Snowshoe Racing
 author: 
-  - display_name: Rafale
-    user_nicename: gafiore
+  display_name: Rafale
+  user_nicename: gafiore
 date: 2014-12-02T01:58:26+00:00
 categories: [Snowshoe Races]
 tags: [racing, snowshoe]
