@@ -1,15 +1,26 @@
 ---
-layout: fun-runs
+layout: event
+title: New Year Fatass
+meta: The New Year Fatass is our annual run to kick off the new year.
+event: 
+  - name: New Year Fatass
+    date: "2018-01-01T08:00:00-05:00"
+location:
+  - address: 300 Valley Falls Rd, Vernon, CT
+    map: https://www.google.com/maps/dir//Valley+Falls+Park,+300+Valley+Falls+Rd,+Vernon,+CT+06066/@41.8234, -72.4433,13z
+    name: Valley Falls Park
+registration:
+  - url: https://www.facebook.com/events/1826078681023036
+    add_info: |
+        *Join our event page on Facebook to be kept up to date. No registration is required - show up when you want!*
+
+        ### Entry Fees
+        Zip, zilch, nada.
+
+        Keeping with the traditional fatass event rules, there is no entry fee. There is also no official support on the course, although there's a good chance that there will be some water, gatorade, and other goodies. **We encourage everyone to bring a treat to share.**
+redirect_from:
+  - /club-races/new-year-fatass.htm
 ---
-
-# New Year Fatass
-The **New Year Fatass** is our annual run to kick off the new year.
-
-## Date
-Monday, January 1 2018, at 8:00 AM
-
-## Location
-[Valley Falls Park](https://www.google.com/maps/dir//Valley+Falls+Park,+300+Valley+Falls+Rd,+Vernon,+CT+06066/@41.8234, -72.4433,13z){: target="_blank"} in Vernon, CT
 
 ## Description
 Ring in the New Year with the traditional Shenipsit Strider fat-ass style event! Once again we'll be meeting at Valley Falls park in Vernon.
@@ -24,15 +35,10 @@ Fat-ass events are very low-key. It's not a race, it's a social extravaganza! Th
 ## Awards
 The satisfaction of showing up for a run on New Year Day is all the reward a runner really needs.
 
-## Registration
-Join our event page at [https://www.facebook.com/events/1826078681023036/](https://www.facebook.com/events/1826078681023036/){: target="_blank"}
-
-### Entry Fees
-Zip, zilch, nada.
-
-Keeping with the traditional fatass event rules, there is no entry fee. There is also no official support on the course, although there's a good chance that there will be some water, gatorade, and other goodies. **We encourage everyone to bring a treat to share.**
-
 ## Weather Policy
 **None**
 
 We will be there, regardless of any weather conditions that fortune shares with us!
+
+## 2018 Results
+Results found at: [Coolrunning.com](http://www.coolrunning.com/results/18/ct/Jan1_Shenip_set1.shtml){:target="_blank" title="New Year Fatass Results"}

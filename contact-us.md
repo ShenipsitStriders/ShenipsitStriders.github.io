@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Contact Us
 ---
 
-# Contact Us
+# {{ page.title }}
 
 The club is steered by a Board that holds open meetings at different times throughout the year. The current club officers are:
 

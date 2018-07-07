@@ -1,21 +1,40 @@
 ---
-layout: club-races
+layout: event
+title: Soapstone Mountain Trail Races
+meta: Two classic events taking place in Shenipsit State Forest - the Soapstone Mountain 24k and the 6k Jerry Stage Sampler
+event: 
+  - name: Soapstone Mountain 24k
+    date: "2018-05-20T09:00:00-04:00"
+  - name: Jerry Stage 6k
+    date: "2018-05-20T09:30:00-04:00"
+image: striders3.jpg
+location:
+  - address: 93 Handel Rd, Stafford, CT
+    map: https://www.google.com/maps/place/93+Handel+Rd,+Stafford,+CT+06076/@41.9594363,-72.4005459,17z/data=!3m1!4b1!4m2!3m1!1s0x89e6f2751fad0143:0x157a4407e9f30641
+    name: Reddington Rock Riding Club
+    location_url: http://reddingtonrockridingclub.org
+registration: 
+  - url: https://ultrasignup.com/register.aspx?did=50996
+    add_info: |
+        ### Entry Fees
+
+        24 km race:
+        : $25 if you preregister or $30 if you register day-of-race
+
+        6 km race:
+        : $12 if you preregister or $15 if you register day-of-race
+
+        Fees are **non-refundable**.
+race_director:
+  - name: Deborah Livingston
+    email: soapstone@shenipsitstriders.org
+    phone: 860-512-0125
+results: 
+  - year: 2018
+    url: http://aratrace.com/soapstone-mountain-trail-races-4/
+redirect_from:
+  - /club-races/soapstone-mountain-trail-races.htm
 ---
-
-# Soapstone Mountain Trail Race
-The **Soapstone Mountain Trail Races** take place mainly in the [Shenipsit State Forest](http://www.ct.gov/deep/shenipsit){: target="_blank"}. There are two options: a **24 km race** - the Soapstone Mountain 24k and a **6 km race** - the Jerry Stage Sampler.
-
-## Date
-**Sunday, May 20 2018, at 9 AM**
-
-**34th Soapstone Mountain Trail Races**
-
-## Results
-Found on [Rat Race Timing](http://aratrace.com/soapstone-mountain-trail-races-4/){: title="Soapstone Mountain Results" target="_blank"}
-
-## Location
-<p><a href="http://www.rrrclub.org/" target="_blank">Reddington Rock Riding Club</a><br />
-<a href="https://www.google.com/maps/place/93+Handel+Rd,+Stafford,+CT+06076/@41.9594363,-72.4005459,17z/data=!3m1!4b1!4m2!3m1!1s0x89e6f2751fad0143:0x157a4407e9f30641" target="_blank">93 Handel Rd, Stafford Springs, CT 06076</a></p>
 
 ## Courses
 Both courses cover varying quality dirt roads, unused logging roads, narrow footpaths and a rocky streambed.
@@ -48,27 +67,6 @@ Distinctive *organic cotton* T-shirts are available for $20. Guarantee yours by 
 
 Free camping is available in the RRRC campground Saturday night for those pre-registered (please email the RD). There are no changing or shower facilities.
 
-## Registration
-
-### Online Registration
-
-Register online at [Ultrasignup](https://ultrasignup.com/register.aspx?did=50996){: target="_blank"}.
-
 ### Mail-in Registration
 
 If you prefer mail-in registration, download and print the registration form [here]({{site.baseurl}}/maps/2018SoapstonePreregistrationForm.pdf){: target="_blank"}
-
-### Entry Fees
-
-24 km race:
-: $25 if you preregister or $30 if you register day-of-race
-
-6 km race:
-: $12 if you preregister or $15 if you register day-of-race
-
-Fees are **non-refundable**.
-
-## Race Director
-Deborah Livingston\\
-[soapstone@shenipsitstriders.org](mailto:soapstone@shenipsitstriders.org)\\
-860-512-0125

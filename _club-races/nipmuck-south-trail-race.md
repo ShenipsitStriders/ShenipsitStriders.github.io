@@ -1,19 +1,33 @@
 ---
-layout: club-races
+layout: event
+title: Nipmuck South Trail Race
+meta: The **Nipmuck South Trail Race** is a **14 mi race** that for the most part follows the Fenton river.
+event: 
+  - name: Nipmuck South Trail Race
+    date: "2018-06-10T09:00:00-04:00"
+image: nipmucksouthgroup.jpg
+location: 
+  - address: Bassetts Bridge Road, Mansfield, CT
+    map: https://goo.gl/maps/td1kBJcJJFu
+    name: Mansfield Hollow State Park
+    location_url: http://www.ct.gov/deep/mansfieldhollow
+registration:
+  - url: http://ultrasignup.com/register.aspx?did=51006
+    add_info: |
+        ## Entree Fees
+
+        * $25 for preregisteration at UltraSignup or $30 day-of-race
+        * The Nipmuck South Trail Race has a no-refund policy
+race_director: 
+  - name: Scott Edington
+    email: nipmucksouth@shenipsitstriders.org
+    phone: 860-617-6088
+results:
+  - year: 2018
+    url: http://aratrace.com/nipmuck-south-trail-race-3/
+redirect_from:
+  - /club-races/nipmuck-south-trail-race.htm
 ---
-
-# Nipmuck South Trail Race
-The **Nipmuck South Trail Race** is a **14 mi race** that for the most part follows the Fenton river.
-
-## Date
-Sunday, June 10 2018, at 9 AM
-
-## Results
-Found on Rat Race Timing: [http://aratrace.com/nipmuck-south-trail-race-3/](http://aratrace.com/nipmuck-south-trail-race-3/){: target="_blank"}
-
-## Location
-[Mansfield Hollow State Park](http://www.ct.gov/deep/mansfieldhollow){: target="_blank"}\\
-[Bassetts Bridge Road, Mansfield, CT](https://www.google.com/maps/place/Bassetts+Bridge+Rd,+Mansfield+Center,+CT+06250/@41.7644182,-72.1752659,17z/data=!3m1!4b1!4m2!3m1!1s0x89e6629b25457463:0x762818b3a357aca4){: target="_blank"}
 
 ## Course
 The race is an **out-and-back** covering a distance of **14.1 mi**.
@@ -32,15 +46,3 @@ Recognition will be given for overall female and male winners as well as divisio
 Food and beverages will be provided as a courtesy to runners after the race.
 
 The start has two outdoor bathroom facilities which are new and clean. There are picnic tables and a hand water pump. Parking is available without charge very close to the start of the race.
-
-## Registration
-[UltraSignup](http://ultrasignup.com/register.aspx?did=51006){: target="_blank"}
-
-## Entree Fees
-* $25 for preregisteration at UltraSignup or $30 day-of-race
-* The Nipmuck South Trail Race has a no-refund policy
-
-## Race Director
-Scott Edington\\
-[nipmucksouth@shenipsitstriders.org](mailto:nipmucksouth@shenipsitstriders.org)\\
-860-617-6088

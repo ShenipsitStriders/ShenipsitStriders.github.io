@@ -1,7 +1,8 @@
 <header>
   <nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top">
-    <a class="navbar-brand" href="{{site.baseurl}}/index.html">
-      <img src="{{site.baseurl}}/images/Shenipsit-Striders-greenonmango.jpg" width="30" height="30" class="d-inline-block align-top" alt="Running Tree">Shenipsit Striders</a>
+    <a class="navbar-brand" href="{{ site.baseurl }}{% link index.html %}">
+      <img src="{{ site.baseurl }}{% link /images/Shenipsit-Striders-greenonmango.jpg %}" 
+          width="30" height="30" class="d-inline-block align-top" alt="Running Tree">Shenipsit Striders</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -10,34 +11,27 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="{{site.baseurl}}/club-races.html" id="racesdropdown" data-toggle="dropdown" aria-haspopup="true"
+          <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{% link club-races.md %}" id="racesdropdown" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">Races</a>
           <div class="dropdown-menu" aria-labelledby="racesdropdown">
-            <a class="dropdown-item" href="{{site.baseurl}}/club-races/soapstone-mountain-trail-races.html">Soapstone Mountain</a>
-            <a class="dropdown-item" href="{{site.baseurl}}/club-races/nipmuck-south-trail-race.html">Nipmuck South</a>
-            <a class="dropdown-item" href="{{site.baseurl}}/club-races/soapstone-assault.html">Soapstone Assault</a>
-            <a class="dropdown-item" href="{{site.baseurl}}/club-races/nipmuck-trail-marathon.html">NipMuck Trail Marathon</a>
-            <a class="dropdown-item" href="{{site.baseurl}}/club-races/bolton-summer-xc-series.html">Bolton Summer XC Series</a>
+{% include menu_dropdown-items.html event_type="club-races" %}
           </div>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="{{site.baseurl}}/fun-runs.html" id="runsdropdown" data-toggle="dropdown" aria-haspopup="true"
+          <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{% link fun-runs.md %}" id="runsdropdown" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">Runs</a>
           <div class="dropdown-menu" aria-labelledby="runsdropdown">
-            <a class="dropdown-item" href="{{site.baseurl}}/fun-runs/new-year-fatass.html">New Year Fatass</a>
-            <a class="dropdown-item" href="{{site.baseurl}}/fun-runs/moonlight-run.html">Moonlight Run</a>
-            <a class="dropdown-item" href="{{site.baseurl}}/fun-runs/connecticut-ultra-traverse.html">Connecticut Ultra Traverse</a>
-            <a class="dropdown-item" href="{{site.baseurl}}/fun-runs/shenipsit-trail-end-to-end.html">Shenipsit Trail End-to-End</a>
+{% include menu_dropdown-items.html event_type="fun-runs" %}
           </div>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="{{site.baseurl}}/contact-us.html">Contact Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{site.baseurl}}/volunteer.html">Volunteer</a>
+          <a class="nav-link" href="{{ site.baseurl }}{% link volunteer.md %}">Volunteer</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{site.baseurl}}/joinrenew.html">Join/Renew</a>
+          <a class="nav-link" href="{{ site.baseurl }}{% link joinrenew.md %}">Join/Renew</a>
         </li>
       </ul>
     </div>

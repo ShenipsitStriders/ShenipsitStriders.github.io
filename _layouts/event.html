@@ -1,0 +1,132 @@
+---
+layout: default
+---
+
+<section class="container">
+
+<h1 id="{{ page.title | slugify }}">{{ page.title }}</h1>
+{% if page.meta %}
+  {{ page.meta | slice: 0, 164 | markdownify }}
+{%- endif -%}
+
+
+{% if page.results %}
+  {%- capture resultsurl -%}
+    {{ page.results[0].url }}
+  {%- endcapture -%}
+
+  {%- capture event_year -%}
+    {{ page.event[0].date | date:"%Y" }}
+  {%- endcapture -%}
+
+  {%- capture results_year -%}
+    {{ page.results[0].year | plus:0 }}
+  {%- endcapture -%}
+
+  {% if results_year >= event_year %}
+<h2>{{ page.results[0].year }} Results</h2>
+  <p>Results found at: 
+      <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">
+          {%- include convert_url_to_pagename.txt page_url= resultsurl -%}</a></p>
+  {%- endif -%}
+{% endif %}
+
+
+<h2 id="date">Date</h2>
+{% if page.event[1] %}
+<dl>
+  {% for event in page.event %}
+    {%- capture hh_mm -%}
+      {{ event.date | date:"%R" }}
+    {%- endcapture -%}
+
+    <dt>{{ event.name }}</dt>
+      <dd><time datetime="{{ event.date }}">{{ event.date | date:"%A, %B %e %Y" }}
+
+    {%- unless hh_mm contains '00:00' -%}
+      {{ event.date | date:", at%l:%M %p" }}
+    {%- endunless -%}</time></dd>
+  {% endfor %}
+</dl>
+
+{%- else -%}
+  {%- capture hh_mm -%}
+    {{ page.event[0].date | date:"%R" }}
+  {%- endcapture -%}
+
+  <p><time datetime="{{ page.event[0].date }}">{{ page.event[0].date | date:"%A, %B %e %Y" }}
+    {%- unless hh_mm contains '00:00' -%}
+      {{ page.event[0].date | date:", at%l:%M %p" }}
+    {%- endunless -%}</time></p>
+{% endif %}
+
+
+{% if page.location %}
+<h2 id="location">Location</h2>
+  <p>
+  {%- if page.location[0].name -%}
+    {%- if page.location[0].location_url -%}
+      <a href="{{ page.location[0].location_url }}" target="_blank">
+    {%- endif -%}
+    {{ page.location[0].name }}
+    {%- if page.location[0].location_url -%}
+      </a>
+    {%- endif -%}
+    <br />
+  {% endif %}
+    <a href="{{ page.location[0].map }}" target="_blank">{{ page.location[0].address }}</a></p>
+{% endif %}
+
+
+{{ content }}
+
+
+{% if page.registration %}
+  {%- capture regurl -%}
+    {{ page.registration[0].url }}
+  {%- endcapture -%}
+
+  <h2 id="registration">Registration</h2>
+  <p>Register online at 
+      <a href="{{ page.registration[0].url }}" target="_blank">{%- include convert_url_to_pagename.txt page_url= regurl -%}</a></p>
+
+  {% if page.registration[0].add_info %}
+    {{ page.registration[0].add_info | markdownify }}
+  {%- endif -%}
+{% endif %}
+
+
+{% if page.results %}
+  {%- capture resultsurl -%}
+    {{ page.results[0].url }}
+  {%- endcapture -%}
+
+  {%- capture event_year -%}
+    {{ page.event[0].date | date:"%Y" }}
+  {%- endcapture -%}
+
+  {%- capture results_year -%}
+    {{ page.results[0].year | plus:0 }}
+  {%- endcapture -%}
+
+  {% if results_year < event_year %}
+<h2>{{ page.results[0].year }} Results</h2>
+  <p>Results found at: 
+      <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">
+          {%- include convert_url_to_pagename.txt page_url= resultsurl -%}</a></p>
+  {%- endif -%}
+{% endif %}
+
+
+{% if page.race_director %}
+<h2 id="race-director">Race Director</h2>
+<dl>
+  <dt>{{ page.race_director[0].name }}</dt>
+    <dd><a href="mailto:{{ page.race_director[0].email }}">{{ page.race_director[0].email }}</a></dd>
+    {% if page.race_director[0].phone %}
+    <dd><a href="tel:{{ page.race_director[0].phone }}">{{ page.race_director[0].phone }}</a></dd>
+    {% endif %}
+</dl>
+{% endif %}
+
+</section>

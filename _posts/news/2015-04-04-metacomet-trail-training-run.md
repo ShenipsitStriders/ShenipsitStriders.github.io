@@ -1,8 +1,14 @@
 ---
-layout: posts
-title: "Metacomet Trail Training Run"
-author: Rafale
-date: "2015-04-04T15:55:22+00:00"
+layout: post
+title: Metacomet Trail Training Run
+author: 
+  display_name: Rafale
+  user_nicename: gafiore
+date: 2015-04-04T15:55:22+00:00
+categories: [Uncategorized]
+redirect_from:
+  - /posts/metacomet-trail-training-run.htm
+id: post-215
 ---
 
 **Date: Sunday, April 5 2015, at 9 AM**
@@ -22,7 +28,3 @@ Relevant URLs:
 * [http://www.ctwoodlands.org/blue-blazed-hiking-trails/blue-blazed-hiking-trails-interactive-map](http://www.ctwoodlands.org/blue-blazed-hiking-trails/blue-blazed-hiking-trails-interactive-map){: target="_blank"}
 * [http://en.wikipedia.org/wiki/Metacomet_Trail](http://en.wikipedia.org/wiki/Metacomet_Trail){: target="_blank"}
 * [http://newenglandtrail.org/get-on-the-trail/ct-net-section-21-metacomet-trail](http://newenglandtrail.org/get-on-the-trail/ct-net-section-21-metacomet-trail){: target="_blank"}
-
-category/uncategorized
-
-tags:

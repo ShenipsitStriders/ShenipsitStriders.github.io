@@ -1,12 +1,13 @@
 ---
-layout: fun-runs
+layout: event
+title: Shenipsit Trail End-to-End
+meta: The Shenipsit Trail End-to-End is the annual run on the entirety of the blue-blazed Shenipsit Trail.
+event: 
+  - name: Shenipsit Trail End-to-End
+    date: "2018-11-24"
+redirect_from:
+  - /fun-runs/shenipsit-trail-end-to-end.htm
 ---
-
-# Shenipsit Trail End-to-End
-The **Shenipsit Trail End-to-End** is the annual run on the entirety of the blue-blazed Shenipsit Trail.
-
-## Date
-November 24 2018
 
 ## Description
 The Shenipsit End-to-End run - our infamous yearly trip down the length of the Shenipsit trail. We welcome all who love trail running to join us, members and non-members alike. Many will run part of the trail, and a few hearty souls will complete the whole distance. This is a group run, not a race, and we will try to stay together or regroup as necessary. We may split into two groups this year.

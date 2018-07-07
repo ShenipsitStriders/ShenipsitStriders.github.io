@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<section class="container">
+
+{% if page.categories[0] %}
+  <ol class="breadcrumb">
+    {%- for category in page.categories -%}
+      <li class="breadcrumb-item">{{ category }}</li> 
+    {%- endfor -%}
+  </ol>
+{%- else -%}
+  <ol class="breadcrumb"><li class="breadcrumb-item">Uncategorized</li></ol>
+{% endif %}
+
+<h1>{{page.title}}</h1>
+
+<p><span class="badge badge-secondary" title="Posted: {{ page.date | date:"%FT%T%z" }}"><time class="entry-date" datetime="{{ page.date | date:"%FT%T%z" }}">{{ page.date | date:"%A, %B %e, %Y" }}</time></span></p>
+
+{{content}}
+
+{% if page.tags[0] %}
+<section>
+  <h2>tags:</h2>
+  <ul>
+  {% for tag in page.tags %}
+    <li>{{ tag }}</li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+</section>
