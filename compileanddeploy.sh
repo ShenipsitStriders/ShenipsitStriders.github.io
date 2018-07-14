@@ -4,7 +4,7 @@ source config.sh
 SCRATCH=$(mktemp -d)
 
 #Build site
-jekyll build --config "_config.yml,prodconfig.yml" -d $SCRATCH
+bundle exec jekyll build --config "_config.yml,prodconfig.yml" -d $SCRATCH
 #ensure build succeeded
 
 #Upload to ftp site
