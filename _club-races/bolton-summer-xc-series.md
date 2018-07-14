@@ -68,6 +68,10 @@ Week 2 - June 27:
 : [Adult Race Week 2](https://www.webscorer.com/racedetails?raceid=142467){: target="_blank"}
 : [Children's Race Week 2](https://www.webscorer.com/racedetails?raceid=142470){: target="_blank"}
 
+Week 3 - July 11:
+: [Adult Race Week 3](https://www.webscorer.com/racedetails?raceid=143796){: target="_blank"}
+: [Children's Race Week 3](https://www.webscorer.com/racedetails?raceid=143794){: target="_blank"}
+
 ## Age Groups
 
 * 100 m race: 4 & under. Everyone wins!
