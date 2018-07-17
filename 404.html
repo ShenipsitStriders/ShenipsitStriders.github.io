@@ -1,0 +1,41 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Shenipsit Striders</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+  <style>
+    html, body {
+      height: 100%;
+    }
+    main {
+      height: 100%;
+      background: url({% link images/IMG_1086.JPG %}) no-repeat center fixed;
+      background-size: cover;
+    }
+    #notfound404 {
+      padding-top: 4em;
+      opacity: .90;
+    }
+  </style>
+</head>
+<body>
+<main role="main">
+  <div id="notfound404">
+    <div class="jumbotron container" >            
+      <h1>We all get a little lost some<wbr>times…</h1>
+      <hr>
+      <p class="text-center">The page you were looking for could not be found. Try a different path, or head Home</p>
+      <div class="text-center">
+        <a href="{{ site.baseurl }}{% link index.html %}" class="btn btn-primary">Home</a>
+      </div>
+    </div>
+  </div>
+</main>
+</body>
+</html>
