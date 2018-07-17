@@ -61,7 +61,7 @@ redirect_from:
 ## 2018 Results
 
 Week 1 - June 20:
-: [Adult Race Week 1](https://www.webscorer.com/racedetails?raceid=141736&did=157737){: target="_blank"}
+: [Adult Race Week 1](https://www.webscorer.com/racedetails?raceid=141736){: target="_blank"}
 : [Children's Race Week 1](https://www.webscorer.com/racedetails?raceid=142471){: target="_blank"}
 
 Week 2 - June 27:
