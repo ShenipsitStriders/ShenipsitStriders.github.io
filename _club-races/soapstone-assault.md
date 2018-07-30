@@ -10,13 +10,10 @@ location:
   - address: Gulf Rd parking lot - Shenipsit State Forest
     map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
 registration: 
-  - url: https://goo.gl/forms/x1VSNU29LJbzA53r2
-    add_info: |
+  - add_info: |
         We offer pre-registration and day-of registration options, but **strongly** encourage pre-registration.
 
         When preregistering, please fill out the form, with no payment. Payment is collected on race day for both pre-registration and day-of registration.
-
-        [Pre-register Here](https://goo.gl/forms/x1VSNU29LJbzA53r2){: target="_blank"}
 
         ### Fees
 
@@ -26,6 +23,9 @@ registration:
 
         Day-of registration
         : All runners: $15.00
+results: 
+  - year: 2018
+    url: https://www.webscorer.com/race?raceid=145415
 race_director: 
   - name: Brad Pellissier
     email: assault@shenipsitstriders.org
