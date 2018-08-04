@@ -72,6 +72,18 @@ Week 3 - July 11:
 : [Adult Race Week 3](https://www.webscorer.com/racedetails?raceid=143796){: target="_blank"}
 : [Children's Race Week 3](https://www.webscorer.com/racedetails?raceid=143794){: target="_blank"}
 
+Week 4 - July 18:
+: [Adult Race Week 4](https://www.webscorer.com/racedetails?raceid=144351){: target="_blank"}
+: [Children's Race Week 4](https://www.webscorer.com/racedetails?raceid=144349){: target="_blank"}
+
+Week 5 - July 25:
+: [Adult Race Week 5](https://www.webscorer.com/racedetails?raceid=144965){: target="_blank"}
+: [Children's Race Week 5](https://www.webscorer.com/racedetails?raceid=144964){: target="_blank"}
+
+Week 6 - August 1:
+: [Adult Race Week 6](https://www.webscorer.com/racedetails?raceid=145633){: target="_blank"}
+: [Children's Race Week 6](https://www.webscorer.com/racedetails?raceid=145631){: target="_blank"}
+
 ## Age Groups
 
 * 100 m race: 4 & under. Everyone wins!
