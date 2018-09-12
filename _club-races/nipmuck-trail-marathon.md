@@ -41,9 +41,20 @@ There will be **9 aid stations** along the course. Most of them will be fully st
 
 ## Cutoffs
 
+### 2018 cutoff info
+
+The cutoffs for marathon runners for 2018 remain the same as those used in past years. They are: Perry Hill Rd - 3hr 15mins, Boston Hollow - 5hr 20mins, Finish - 8 hours. 35 mile runners have adjusted cutoffs to account for the longer distance.
+
+Boston Hollow is a turnaround point for Marathon runners, who reach it once, and is a passthrough for 35 Mile runners, who reach it twice. At Boston Hollow, Marathon runners have a firm cutoff of 5hr 20mins. 35 Mile runners pass through Boston Hollow to get to the 35 Mile turn around at 2Pipes. 35 Mile runners have a cutoff of 4hr 20mins for their first visit at Boston Hollow. A 35 mile runner who does not reach Boston Hollow their first time before 4hr 20mins will be automatically converted to the Marathon distance, and will not be allowed to do the 35 Mile section of the course.
+
+<table><colgroup><col style="background-color:PapayaWhip;"><col span="3" style="background-color:PowderBlue;"><col span="3" style="background-color:MintCream;"><col span="3" style="background-color:PowderBlue;"><col span="3" style="background-color:MintCream;"></colgroup><thead><tr><th></th><th colspan="3">Perry Hill Rd</th><th colspan="3">Boston Hollow</th><th colspan="3">Finish</th></tr></thead><tbody><tr><th>Distance</th><th>Mileage</th><th>Time</th><th>Pace</th><th>Mileage</th><th>Time</th><th>Pace</th><th>Mileage</th><th>Time</th><th>Pace</th></tr><tr><th>Marathon (26.4)</th><td>12.4</td><td>3hr 15mins</td><td>15:40</td><td>19.4</td><td>5hr 20mins</td><td>16:30</td><td>26.4</td><td>8 hours</td><td>18:10</td></tr><tr><th>Ultra (35)</th><td>12.4</td><td>2hr 30mins</td><td>12:00</td><td>19.4</td><td>4hr 20mins</td><td>13:20</td><td>35</td><td>8 hours</td><td>13:40</td></tr></tbody></table>
+
+---
+
 Runners will spend 60% of the time in the second “half” of the course due to greater ascent and slightly longer distance. Considering this skewness, runners should
 
-1. reach the mid point ≡ 12.4-mi mark in a time **≤ 3h15m**, AND
-2. finish the race in a time **≤ 8 h**.
+1. reach the mid point ~ 12.4-mi mark in a time **≤ 3h15m**
+2. reach the 2nd turn around (Boston Hollow) ~ 19.4-mi mark in a time **≤ 5h20m**
+3. finish the race in a time **≤ 8 h**
 
 *The race course includes a number of steep, rocky, slippery, or otherwise treacherous areas. Though injuries have been few and minor during past races, a serious injury is possible. **Because parts of the course are relatively inaccessible, it is possible that an injured runner might have to wait an hour or more for emergency medical care.** Please do NOT enter this race if you are not prepared to accept responsibility for yourself and these risks.*
