@@ -21,6 +21,8 @@ race_director:
   - name: Dave Merkt
     email: nipmuck@shenipsitstriders.org
 results: 
+  - year: 2018
+    url: http://www.coolrunning.com/results/18/ct/Sep30_NipMuc_set2.shtml
   - year: 2017
     url: http://www.coolrunning.com/results/17/ct/Oct1_NipMuc_set1.shtml
 redirect_from:
