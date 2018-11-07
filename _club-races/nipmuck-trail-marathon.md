@@ -4,9 +4,9 @@ title: NipMuck Trail Marathon
 meta: A classic old-school New England trail race taking place along a northern section of the Nipmuck Trail, consisting of a 26.4 mile 'marathon' and Marathon Relay
 event: 
   - name: NipMuck Trail Marathon 26.4
-    date: "2018-09-30T08:00:00-04:00"
+    date: "2019-10-06T08:00:00-04:00"
   - name: NipMuck Relay
-    date: "2018-09-30T08:00:00-04:00"
+    date: "2019-10-06T08:00:00-04:00"
 image: nipmucktrail.jpg
 location:
   - address: 390 Perry Hill Rd, Ashford, CT

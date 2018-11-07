@@ -4,13 +4,13 @@ title: New Year Fatass
 meta: The New Year Fatass is our annual run to kick off the new year.
 event: 
   - name: New Year Fatass
-    date: "2018-01-01T08:00:00-05:00"
+    date: "2019-01-01T08:00:00-05:00"
 location:
   - address: 300 Valley Falls Rd, Vernon, CT
     map: https://www.google.com/maps/dir//Valley+Falls+Park,+300+Valley+Falls+Rd,+Vernon,+CT+06066/@41.8234, -72.4433,13z
     name: Valley Falls Park
 registration:
-  - url: https://www.facebook.com/events/1826078681023036
+  - url: https://www.facebook.com/events/2324864164252676/
     add_info: |
         *Join our event page on Facebook to be kept up to date. No registration is required - show up when you want!*
 

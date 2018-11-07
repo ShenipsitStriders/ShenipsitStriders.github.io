@@ -26,9 +26,8 @@ registration:
 
         Fees are **non-refundable**.
 race_director:
-  - name: Deborah Livingston
+  - name: Dan Tourtellotte
     email: soapstone@shenipsitstriders.org
-    phone: 860-512-0125
 results: 
   - year: 2018
     url: http://aratrace.com/soapstone-mountain-trail-races-4/

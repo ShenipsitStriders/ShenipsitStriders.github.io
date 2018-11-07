@@ -1,19 +1,28 @@
 ---
 layout: event
 title: Moonlight Run
-meta: The Moonlight Run is the annual run by moonlight around Soapstone Mountain and to the top of the fire tower. Come to enjoy the beauty of the moonlit forest!
+meta: The Moonlight Run is the annual run by moonlight in the winter forests of Connecticut. Come to enjoy the beauty of the moonlit forest!
 event: 
+  - name: Moonlight Community Gathering and Hike
+    date: "2019-01-19T19:00:00-05:00"
   - name: Moonlight Run
-    date: "2018-01-27T20:30:00-05:00"
+    date: "2019-01-19T20:00:00-05:00"
+  - name: Rain Date
+    date: "2019-02-16"
 location: 
-  - address: Gulf Rd parking lot - Shenipsit State Forest
-    map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
+  - address: Camp Aya Po - Somers, CT
+    map: https://goo.gl/maps/z6KrVoG5eqJ2
 redirect_from:
   - /fun-runs/moonlight-run.htm
 ---
 
 ## Description
-Join us for a fun run in and around scenic Soapstone Mountain under a full winter moon. The course can vary but is usually mostly along single-track trails and 3-5 mi long. The finish line is atop the fire tower on Soapstone with an ETA of midnight.
-The Moonlight Run is not a race. The group typically stays together and no one will be left behind.
-Runners should dress appropriately for cold temperatures and bring a headlamp. With clear skies and particularly if there’s also snow in the ground, however, there should be sufficient natural light to leave them off.
+
+We have a change of venue for 2019! The Moonlight Run is taking place at **Camp Aya Po** instead of Soapstone Mountain this year!
+Join us for a fun run and hike in and around scenic Camp Aya Po under a full winter moon. 
+The gathering and community hike begins at 7:00 PM, consisting of warm beverages and yummy baked goods, and a short family-friendly hike.
+For those who want to join us for the run, the run begins at 8:00 PM and consists of a 2.5 mile course.
+Somers community services personnel will be on-site. 
+The Moonlight Run is not a race, it is a family friendly outdoor event. The group stays together and no one will be left behind.
+Runners should dress appropriately for cold temperatures and bring a headlamp. With clear skies and particularly if there’s also snow in the ground, however, there should be sufficient natural light to leave the headlamps off.
 People should feel free to bring a baked good to share and warm beverages for after the run. *Due to DEP regulations, alcohol is not allowed.*

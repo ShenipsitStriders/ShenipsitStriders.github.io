@@ -4,7 +4,7 @@ title: Soapstone Assault
 meta: A **~5 mi race** around the base of Soapstone Mountain - a supercharged hill workout where runners climb the mountain a total of 6 times
 event: 
   - name: Soapstone Assault
-    date: "2018-07-29T09:00:00-04:00"
+    date: "2019-07-28T09:00:00-04:00"
 image: 0612Case.jpg
 location: 
   - address: Gulf Rd parking lot - Shenipsit State Forest
