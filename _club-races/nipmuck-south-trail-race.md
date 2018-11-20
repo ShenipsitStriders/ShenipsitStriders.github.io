@@ -27,6 +27,7 @@ results:
     url: http://aratrace.com/nipmuck-south-trail-race-3/
 redirect_from:
   - /club-races/nipmuck-south-trail-race.htm
+blueblazedtrailrace: true
 ---
 
 ## Course

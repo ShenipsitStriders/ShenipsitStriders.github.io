@@ -31,6 +31,7 @@ race_director:
     email: assault@shenipsitstriders.org
 redirect_from:
   - /club-races/soapstone-assault.htm
+blueblazedtrailrace: true
 ---
 
 ## Course

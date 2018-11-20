@@ -33,6 +33,7 @@ results:
     url: http://aratrace.com/soapstone-mountain-trail-races-4/
 redirect_from:
   - /club-races/soapstone-mountain-trail-races.htm
+blueblazedtrailrace: true
 ---
 
 ## Courses

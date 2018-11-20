@@ -24,4 +24,5 @@ registration:
 results: 
   - url: 
     year: 
+blueblazedtrailrace: true
 ---

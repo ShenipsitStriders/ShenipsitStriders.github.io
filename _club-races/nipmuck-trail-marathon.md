@@ -27,6 +27,7 @@ results:
     url: http://www.coolrunning.com/results/17/ct/Oct1_NipMuc_set1.shtml
 redirect_from:
   - /club-races/nipmuck-trail-marathon.htm
+blueblazedtrailrace: true
 ---
 
 ## Course
