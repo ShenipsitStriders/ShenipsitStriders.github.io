@@ -8,6 +8,11 @@ exclude:
   - .gitattributes
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - compileanddeploy.sh
   - config.sh
   - config.sh.example
