@@ -1,25 +1,20 @@
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-  <input type="hidden" name="cmd" value="_s-xclick">
-  <br />
-  <input type="hidden" name="hosted_button_id" value="UTVEHZUFQZ222">
-  <table>
-    <tr>
-      <td>
-        <input type="hidden" name="on0" value="Type">Membership option:</td>
-      <td>
-        <select name="os0">
-          <option value="Individual">Individual $15.00 USD</option>
-          <option value="Family">Family $20.00 USD</option>
-        </select>
-      </td>
-    </tr>
-  </table>
-  <p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <div class="form-group">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="W8WG763MAJ8Z6">
+  </div>
+
+  <div class="form-group">
+    <input type="hidden" name="on0" value="Type">
+    <label for="os0" class="form-text">Membership option:</label>
+    <select name="os0" id="os0" class="form-control mb-1" style="width: 17rem;">
+      <option value="Individual">Individual $15.00 USD</option>
+      <option value="Individual + CFPA">Individual + CFPA $40.00 USD</option>
+      <option value="Family">Family $20.00 USD</option>
+      <option value="Family + CFPA">Family + CFPA $60.00 USD</option>
+    </select>
     <input type="hidden" name="currency_code" value="USD">
-    <br />
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-    <br />
-    <img alt="" border="0" src="http://i1.wp.com/www.paypalobjects.com/en_US/i/scr/pixel.gif?resize=1%2C1&#038;ssl=1" data-recalc-dims="1">
-    <br />
-  </p>
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+  </div>
 </form>
