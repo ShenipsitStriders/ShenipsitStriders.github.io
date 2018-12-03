@@ -1,6 +1,16 @@
-markdown:  kramdown
+markdown:   kramdown
+title:      Shenipsit Striders
+description: Trail Running in New England and Beyond
 url:        http://shenipsitstriders.org
-baseurl:   /ShenipsitStriders.github.io
+baseurl:    ""
+webmaster_verifications:
+  google:   CZUy5fl_f1Z_COHVXxBzNJ_YGftSI2bJR4ay4PXMjLY
+logo:       /images/Shenipsit-Striders-greenonmango.jpg
+twitter:
+  username: ShenipsitStrdrs
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/groups/shenipsitstriders/
 exclude:   
   - README.md
   - .git
