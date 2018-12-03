@@ -27,20 +27,24 @@ layout: default
   {% if results_year >= event_year %}
 <h2>{{ page.results[0].year }} Results</h2>
   <p>Results found at: 
-      <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">
-          {%- include convert_url_to_pagename.txt page_url= resultsurl -%}</a></p>
+    <a href="{{ page.results[0].url }}" target="_blank" title="{{ page.title }} Results">
+      {%- include convert_url_to_pagename.txt page_url= resultsurl -%}</a></p>
   {%- endif -%}
 {% endif %}
 
 
 {% if page.blueblazedtrailrace %}
 <div class="card text-sm-right ml-sm-4 float-sm-right" style="width: 15rem">
-    <div class="card-body">
-      <img src="../images/blueblazedlogo.jpg" alt="Blue-Blazed logo" height="232" width="68">
-      <h1 class="card-title h5">Blue-Blazed Trail Running Series</h1>
-      <p class="card-text">This race is part of the Blue-Blazed Trail Running Series</p>
-    </div>
+  <div class="card-body">
+    <a href="https://blueblazedtrailrunningseries.org" target="_blank">
+      <div>
+        <img src="../images/blueblazedlogo.jpg" alt="Blue-Blazed logo" height="232" width="68">
+        <h1 class="card-title h5">Blue-Blazed Trail Running Series</h1>
+      </div>
+    </a>
+    <p class="card-text">This race is part of the Blue-Blazed Trail Running Series</p>
   </div>
+</div>
 {% endif %}
 
 <h2 id="date">Date</h2>
