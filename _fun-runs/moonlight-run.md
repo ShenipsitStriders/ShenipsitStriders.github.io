@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Moonlight Run
-meta: The Moonlight Run is the annual run by moonlight in the winter forests of Connecticut. Come to enjoy the beauty of the moonlit forest!
+description: The Moonlight Run is the annual run by moonlight in the winter forests of Connecticut. Come to enjoy the beauty of the moonlit forest!
 event: 
   - name: Moonlight Community Gathering and Hike
     date: "2019-01-19T19:00:00-05:00"

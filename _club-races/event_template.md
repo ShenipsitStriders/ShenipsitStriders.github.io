@@ -1,7 +1,7 @@
 ---
 layout: event
 title: title of page
-meta: About the page. 165 Characters Max
+description: About the page. 165 Characters Max
 event: (list supported)
   - name: Name of Event
     date: Date/time of event in ISO 8601 format Ex- "2018-09-30T08:00:00-04:00"

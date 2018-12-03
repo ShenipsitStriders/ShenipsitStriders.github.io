@@ -1,7 +1,7 @@
 ---
 layout: event
 title: New Year Fatass
-meta: The New Year Fatass is our annual run to kick off the new year.
+description: The New Year Fatass is our annual run to kick off the new year.
 event: 
   - name: New Year Fatass
     date: "2019-01-01T08:00:00-05:00"

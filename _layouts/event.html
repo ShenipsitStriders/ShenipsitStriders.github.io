@@ -6,8 +6,8 @@ layout: default
 
 <h1 id="{{ page.title | slugify }}">{{ page.title }}</h1>
 
-{% if page.meta %}
-  {{ page.meta | slice: 0, 164 | markdownify }}
+{% if page.description %}
+  {{ page.description | slice: 0, 164 | markdownify }}
 {%- endif -%}
 
 

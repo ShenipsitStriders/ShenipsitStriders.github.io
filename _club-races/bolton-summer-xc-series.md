@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Bolton Summer XC Series
-meta: Family-friendly cross-country series held on Wednesdays during the summer
+description: Family-friendly cross-country series held on Wednesdays during the summer
 event: 
   - name: Week 1
     date: "2018-06-20"

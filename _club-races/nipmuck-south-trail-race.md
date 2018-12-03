@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Nipmuck South Trail Race
-meta: The **Nipmuck South Trail Race** is a **14 mi race** that for the most part follows the Fenton river.
+description: The **Nipmuck South Trail Race** is a **14 mi race** that for the most part follows the Fenton river.
 event: 
   - name: Nipmuck South Trail Race
     date: "2019-06-09T09:00:00-04:00"

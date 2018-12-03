@@ -21,7 +21,9 @@ Beyond races, the Shenipsit Striders club also organizes “fun runs” where an
 {% if event.event[0].date == date %}
 [{{ event.title }}]({{ event.url }})
 : <time datetime="{{ event.event[0].date }}">{{ event.event[0].date | date:"%A, %B %e, %Y" }}</time>
-: {{ event.meta }}
+{% if event.description %}
+: {{ event.description }}
+{% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}
