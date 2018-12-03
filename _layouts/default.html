@@ -4,61 +4,60 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<meta name="google-site-verification" content="CZUy5fl_f1Z_COHVXxBzNJ_YGftSI2bJR4ay4PXMjLY" />
-  {% if page.description %}<meta name="description" content="{{ page.description | slice: 0, 164 }}">{% endif %}
   <title>
     {%- if page.title -%}
       {{- page.title | append:" | " -}}
     {%- endif -%}
     {{ site.title }} • {{ site.description }}</title>
+  {% seo title=false %}
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
   <style>
-      html {
-        position: relative;
-        min-height: 100%;
-      }
+    html {
+      position: relative;
+      min-height: 100%;
+    }
 
-      body{
-        background: #fff;
-        padding-top: 3.5rem;
-        margin-bottom: 4.5rem;
-      }
-  
-      .navbar{
-        opacity: 0.95;
-      }
-  
-      .jumbotron{
-        opacity: 0.9;
-      }
-  
-      #home-section{
-        background: url('./images/cover.jpg') no-repeat;
-        min-height: 20rem;
-        background-size: cover;
-      }
-  
-      footer{
-        position: absolute;
-        bottom: 0;
-        height: 4rem;
-      }
-  
-      footer ul li a{
-        text-decoration: none;
-        color: white;
-      }
-      footer ul li a:hover{
-        text-decoration: none;
-        color: silver;
-      }
+    body{
+      background: #fff;
+      padding-top: 3.5rem;
+      margin-bottom: 4.5rem;
+    }
 
-      .dropdown-item:focus,.dropdown-item:hover{
-        color: #f8f9fa;
-        text-decoration: none;
-        background-color: #007bff;
-      }
-    </style>
+    .navbar{
+      opacity: 0.95;
+    }
+
+    .jumbotron{
+      opacity: 0.9;
+    }
+
+    #home-section{
+      background: url('./images/cover.jpg') no-repeat;
+      min-height: 20rem;
+      background-size: cover;
+    }
+
+    footer{
+      position: absolute;
+      bottom: 0;
+      height: 4rem;
+    }
+
+    footer ul li a{
+      text-decoration: none;
+      color: white;
+    }
+    footer ul li a:hover{
+      text-decoration: none;
+      color: silver;
+    }
+
+    .dropdown-item:focus,.dropdown-item:hover{
+      color: #f8f9fa;
+      text-decoration: none;
+      background-color: #007bff;
+    }
+  </style>
 </head>
 <body id="home">
 {% include header.html %}
