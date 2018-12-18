@@ -14,7 +14,7 @@ location:
     name: Reddington Rock Riding Club
     location_url: http://reddingtonrockridingclub.org
 registration: 
-  - url: https://ultrasignup.com/register.aspx?did=50996
+  - url: https://ultrasignup.com/register.aspx?eid=3336
     add_info: |
         ### Entry Fees
 

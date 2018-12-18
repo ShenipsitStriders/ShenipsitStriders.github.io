@@ -12,7 +12,7 @@ location:
     name: Mansfield Hollow State Park
     location_url: http://www.ct.gov/deep/mansfieldhollow
 registration:
-  - url: http://ultrasignup.com/register.aspx?did=51006
+  - url: https://ultrasignup.com/register.aspx?eid=4966
     add_info: |
         ## Entree Fees
 
