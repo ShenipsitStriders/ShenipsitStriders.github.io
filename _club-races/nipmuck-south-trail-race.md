@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Nipmuck South Trail Race
-description: The **Nipmuck South Trail Race** is a **14 mi race** that for the most part follows the Fenton river.
+description: The **Nipmuck South Trail Race** is a **14.5 mi race** that for the most part follows the Fenton river.
 event: 
   - name: Nipmuck South Trail Race
     date: "2019-06-09T09:00:00-04:00"
@@ -31,7 +31,7 @@ blueblazedtrailrace: true
 ---
 
 ## Course
-The race is an **out-and-back** covering a distance of **14.1 mi**.
+The race is an **out-and-back** covering a distance of **14.5 mi**.
 
 The [course](http://shenipsitstriders.org/wp-content/uploads/2014/12/nipmuck_south_course.pdf){: target="_blank"} has some interesting trail variations over beautiful terrain, with several small bridge crossings, a climb to a 50 ft cliff, fields, and woods. The race starts at Mansfield Hollow State Park and winds its way to Old Turnpike Road (off Route 44). There are three road crossings that will be staffed by volunteers from the Mansfield Fire Department.
 
