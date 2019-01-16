@@ -4,17 +4,17 @@ title: Bolton Summer XC Series
 description: Family-friendly cross-country series held on Wednesdays during the summer
 event: 
   - name: Week 1
-    date: "2018-06-20"
+    date: "2019-06-26"
   - name: Week 2
-    date: "2018-06-27"
+    date: "2019-07-03"
   - name: Week 3
-    date: "2018-07-11"
+    date: "2019-07-10"
   - name: Week 4
-    date: "2018-07-18"
+    date: "2019-07-17"
   - name: Week 5
-    date: "2018-07-25"
+    date: "2019-07-24"
   - name: Week 6
-    date: "2018-08-01"
+    date: "2019-07-31"
 image: striders1.jpg
 location:
   - address: 266 Bolton Center Rd, Bolton, CT 06043
@@ -25,14 +25,13 @@ race_director:
   - name: Mark Mishriky
     email: boltonsummerxc@shenipsitstriders.org
 registration:
-  - url: https://docs.google.com/forms/d/e/1FAIpQLSeh36D4rcDiJXsRfjPJBIjnoPc6fP9WKuBZL9NJsyhEFPYeYQ/viewform
-    add_info: |
-        Race-day registration is also available this year
+  - add_info: |
+        Race-day registration is <!--also--> available this year
 
         ### Entry Fees
 
         * Toddlers' Race (4 & under) - Free‼
-        * Childrens' Race (5 through 13) - $2 per race, or $10 if pre-registered for the series
+        * Childrens' Race (5 through 13) - $3 per race, or $15 if pre-registered for the series
         * Adult Race - $5 per race, or $25 if pre-registered for the series
         * *By pre-registering for the series, you get 6 races for the price of 5*
 
