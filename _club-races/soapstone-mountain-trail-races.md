@@ -29,6 +29,8 @@ race_director:
   - name: Dan Tourtellotte
     email: soapstone@shenipsitstriders.org
 results: 
+  - year: 2019
+    url: http://ultrasignup.com/results_event.aspx?did=62344
   - year: 2018
     url: http://aratrace.com/soapstone-mountain-trail-races-4/
 redirect_from:
