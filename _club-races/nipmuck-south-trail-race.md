@@ -23,6 +23,8 @@ race_director:
     email: nipmucksouth@shenipsitstriders.org
     phone: 860-617-6088
 results:
+  - year: 2019
+    url: https://aratrace.com/nipmuck-south-trail-race-4/
   - year: 2018
     url: http://aratrace.com/nipmuck-south-trail-race-3/
 redirect_from:
@@ -34,6 +36,9 @@ blueblazedtrailrace: true
 The race is an **out-and-back** covering a distance of **14.5 mi**.
 
 The [course](http://shenipsitstriders.org/wp-content/uploads/2014/12/nipmuck_south_course.pdf){: target="_blank"} has some interesting trail variations over beautiful terrain, with several small bridge crossings, a climb to a 50 ft cliff, fields, and woods. The race starts at Mansfield Hollow State Park and winds its way to Old Turnpike Road (off Route 44). There are three road crossings that will be staffed by volunteers from the Mansfield Fire Department.
+
+### A taste of 2019's event
+<iframe width="427" height="240" src="https://www.youtube-nocookie.com/embed/AA_qWkJ1gMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Aid Stations
 There will be **3 aid stations** along the course at **miles 3.5, 7 (turnaround), and 10.5** (stations 1 and 3 are the same but encountered both during outbound and inbound runs). Each station will have water and energy snacks such as fruits and pretzels.
