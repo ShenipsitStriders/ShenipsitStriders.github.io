@@ -25,7 +25,8 @@ race_director:
   - name: Mark Mishriky
     email: boltonsummerxc@shenipsitstriders.org
 registration:
-  - add_info: |
+  - url: https://www.webscorer.com/60086?pg=register
+    add_info: |
         Race-day registration is <!--also--> available this year
 
         ### Entry Fees
