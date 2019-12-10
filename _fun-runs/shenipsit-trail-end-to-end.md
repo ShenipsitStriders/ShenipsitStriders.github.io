@@ -17,4 +17,5 @@ This year we will be running south to north, starting in East Hampton at the She
 
 Runners should dress appropriately for cold temperatures, be prepared for fueling and hydration needs during the run, and bring a headlamp for the start and finish.
 
-More detail to come as we finalize the logistics, aid stations and distance options.
+More detail to come as we finalize the logistics, aid stations and distance options
+, posted to the event Facebook page: [https://www.facebook.com/events/2124313097878108/](https://www.facebook.com/events/2124313097878108/){:target="_blank" title="Shenipsit Trail E2E 2019"}
