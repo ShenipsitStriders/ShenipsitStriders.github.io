@@ -58,31 +58,31 @@ redirect_from:
 
 **All 3 races are entirely off-road.**
 
-## 2018 Results
+## 2019 Results
 
-Week 1 - June 20:
-: [Adult Race Week 1](https://www.webscorer.com/racedetails?raceid=141736){: target="_blank"}
-: [Children's Race Week 1](https://www.webscorer.com/racedetails?raceid=142471){: target="_blank"}
+Week 1 - June 26:
+: [Adult Race Week 1](https://www.webscorer.com/racedetails?raceid=186209){: target="_blank"}
+: [Children's Race Week 1](https://www.webscorer.com/racedetails?raceid=186211){: target="_blank"}
 
-Week 2 - June 27:
-: [Adult Race Week 2](https://www.webscorer.com/racedetails?raceid=142467){: target="_blank"}
-: [Children's Race Week 2](https://www.webscorer.com/racedetails?raceid=142470){: target="_blank"}
+Week 2 - July 3:
+: [Adult Race Week 2](https://www.webscorer.com/racedetails?raceid=187044){: target="_blank"}
+: [Children's Race Week 2](https://www.webscorer.com/racedetails?raceid=187008){: target="_blank"}
 
-Week 3 - July 11:
-: [Adult Race Week 3](https://www.webscorer.com/racedetails?raceid=143796){: target="_blank"}
-: [Children's Race Week 3](https://www.webscorer.com/racedetails?raceid=143794){: target="_blank"}
+Week 3 - July 10:
+: [Adult Race Week 3](https://www.webscorer.com/racedetails?raceid=187672){: target="_blank"}
+: [Children's Race Week 3](https://www.webscorer.com/racedetails?raceid=187667){: target="_blank"}
 
 Week 4 - July 18:
 : [Adult Race Week 4](https://www.webscorer.com/racedetails?raceid=144351){: target="_blank"}
 : [Children's Race Week 4](https://www.webscorer.com/racedetails?raceid=144349){: target="_blank"}
 
-Week 5 - July 25:
-: [Adult Race Week 5](https://www.webscorer.com/racedetails?raceid=144965){: target="_blank"}
-: [Children's Race Week 5](https://www.webscorer.com/racedetails?raceid=144964){: target="_blank"}
+Week 5 - July 24:
+: [Adult Race Week 5](https://www.webscorer.com/racedetails?raceid=189065){: target="_blank"}
+: [Children's Race Week 5](https://www.webscorer.com/racedetails?raceid=189063){: target="_blank"}
 
-Week 6 - August 1:
-: [Adult Race Week 6](https://www.webscorer.com/racedetails?raceid=145633){: target="_blank"}
-: [Children's Race Week 6](https://www.webscorer.com/racedetails?raceid=145631){: target="_blank"}
+Week 6 - July 31:
+: [Adult Race Week 6](https://www.webscorer.com/racedetails?raceid=189905){: target="_blank"}
+: [Children's Race Week 6](https://www.webscorer.com/racedetails?raceid=189768){: target="_blank"}
 
 ## Age Groups
 

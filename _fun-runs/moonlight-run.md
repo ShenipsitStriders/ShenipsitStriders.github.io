@@ -4,9 +4,9 @@ title: Moonlight Run
 description: The Moonlight Run is the annual run by moonlight in the winter forests of Connecticut. Come to enjoy the beauty of the moonlit forest!
 event: 
   - name: Moonlight Community Gathering and Hike
-    date: "2019-02-08T19:00:00-05:00"
+    date: "2020-02-08T19:00:00-05:00"
   - name: Moonlight Run
-    date: "2019-02-08T20:00:00-05:00"
+    date: "2020-02-08T20:00:00-05:00"
 location: 
   - address: Camp Aya Po - Somers, CT
     map: https://goo.gl/maps/z6KrVoG5eqJ2

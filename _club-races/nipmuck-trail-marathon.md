@@ -4,9 +4,9 @@ title: NipMuck Trail Marathon
 description: A classic old-school New England trail race taking place along a northern section of the Nipmuck Trail, consisting of a 26.4 mile 'marathon' and Marathon Relay
 event: 
   - name: NipMuck Trail Marathon 26.4
-    date: "2019-10-06T08:00:00-04:00"
+    date: "2020-10-04T08:00:00-04:00"
   - name: NipMuck Relay
-    date: "2019-10-06T08:00:00-04:00"
+    date: "2020-10-04T08:00:00-04:00"
 image: nipmucktrail.jpg
 location:
   - address: 390 Perry Hill Rd, Ashford, CT
@@ -21,6 +21,8 @@ race_director:
   - name: Dave Merkt
     email: nipmuck@shenipsitstriders.org
 results: 
+  - year: 2019
+    url: http://www.coolrunning.com/results/19/ct/Oct6_NipMuc_set1.shtml
   - year: 2018
     url: http://www.coolrunning.com/results/18/ct/Sep30_NipMuc_set2.shtml
   - year: 2017
