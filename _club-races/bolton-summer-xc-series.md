@@ -4,17 +4,17 @@ title: Bolton Summer XC Series
 description: Family-friendly cross-country series held on Wednesdays during the summer
 event: 
   - name: Week 1
-    date: "2019-06-26"
+    date: "2020-06-24"
   - name: Week 2
-    date: "2019-07-03"
+    date: "2020-07-01"
   - name: Week 3
-    date: "2019-07-10"
+    date: "2020-07-08"
   - name: Week 4
-    date: "2019-07-17"
+    date: "2020-07-15"
   - name: Week 5
-    date: "2019-07-24"
+    date: "2020-07-22"
   - name: Week 6
-    date: "2019-07-31"
+    date: "2020-07-29"
 image: striders1.jpg
 location:
   - address: 266 Bolton Center Rd, Bolton, CT 06043
@@ -27,7 +27,9 @@ race_director:
 registration:
   - url: https://www.webscorer.com/60086?pg=register
     add_info: |
-        Race-day registration is <!--also--> available this year
+        Preregistration for the series is preferred. This is a fundraiser for Bolton High School Athletics, so your support goes to further oppertunities for the next generation of athletes! Plus, by preregistering for the series, you effectively get one race 'free'.
+
+        Race-day registration is also available.
 
         ### Entry Fees
 
