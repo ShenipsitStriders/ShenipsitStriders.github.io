@@ -10,20 +10,17 @@ location:
   - address: Gulf Rd parking lot - Shenipsit State Forest
     map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
 registration: 
-  - url: https://ultrasignup.com/register.aspx?did=75588
+  - url: http://ultrasignup.com/register.aspx?eid=12441
     add_info: |
-        We offer pre-registration and day-of registration options, but **strongly** encourage pre-registration.
-
-        When preregistering, please fill out the form, with no payment. Payment is collected on race day for both pre-registration and day-of registration.
+        The race is capped at 75 runners. We offer pre-registration and will offer day-of registration if available, but **strongly** encourage pre-registration.
 
         ### Fees
 
         Pre-registered
-        : Non-members: $10.00
-        : Shenipsit Striders Members: $5.00
+        : $20.00 
 
         Day-of registration
-        : All runners: $15.00
+        : $25.00 
 results: 
   - year: 2019
     url: https://www.webscorer.com/racedetails?raceid=189534
