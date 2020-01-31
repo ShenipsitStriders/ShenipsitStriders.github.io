@@ -10,7 +10,7 @@ location:
   - address: Gulf Rd parking lot - Shenipsit State Forest
     map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
 registration: 
-  - url: https://www.webscorer.com/register?raceid=173980
+  - url: https://ultrasignup.com/register.aspx?did=75588
     add_info: |
         We offer pre-registration and day-of registration options, but **strongly** encourage pre-registration.
 
