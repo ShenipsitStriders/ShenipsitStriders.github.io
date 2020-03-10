@@ -25,7 +25,7 @@ race_director:
   - name: Mark Mishriky
     email: boltonsummerxc@shenipsitstriders.org
 registration:
-  - url: https://www.webscorer.com/60086?pg=register
+  - url: https://www.webscorer.com/register?pid=1&raceid=211669
     add_info: |
         Preregistration for the series is preferred. This is a fundraiser for Bolton High School Athletics, so your support goes to further oppertunities for the next generation of athletes! Plus, by preregistering for the series, you effectively get one race 'free'.
 
