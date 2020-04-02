@@ -1,0 +1,88 @@
+place,time,first,last,age,gender,city,state,bib
+1,3:28:46,Daniel,Grip,40,M,Millers Falls,MA,58
+2,3:44:13,Brian,Rusiecki,40,M,South Deerfield,MA,84
+3,3:50:32,Stephen,Anthony,38,M,Rumford,RI,397
+4,4:01:05,Dan,Doherty,39,M,Westford,MA,56
+5,4:04:38,Kevin,Coughlin,35,M,Tolland,CT,283
+6,4:04:40,Daniel,Bates,35,M,Newington,CT,54
+7,4:05:22,Hannah,Zeltner,25,F,"Brighton, Boston",MA,97
+8,4:09:47,Alex,McDaniel,41,M,New Haven,CT,78
+9,4:17:59,Raymond,Sansoucy,32,M,Worcester,MA,86
+10,4:31:08,Jim,McCaffrey,42,M,Hamden,CT,358
+11,4:32:52,Clifton,Trujillo,36,M,Albuquerque,NM,389
+12,4:34:56,Carolyn,Wisnowski,34,F,Shirley,MA,398
+13,4:35:19,Sheryl,Wheeler,56,F,Rhinebeck,NY,396
+14,4:36:22,Mary-Louise,Timmermans,47,F,Woodbridge,CT,94
+15,4:38:30,Robert,Mackin,56,M,Acton,MA,355
+16,4:46:25,Mark X,Cicero,44,M,New Haven,CT,281
+17,4:46:26,Brian,Tiedt,25,M,Ellington,CT,91
+18,4:46:27,Robert,Amatruda,33,M,South Windsor,CT,244
+19,4:46:28,Jake,Gaeta,41,M,Ashford,CT,296
+20,4:53:58,Ethan,Fulton,24,M,Storrs,CT,295
+21,5:02:16,Lisa,Rising,28,F,Cambridge,MA,81
+22,5:02:45,Michael,Westfall,49,M,Manchester,CT,395
+23,5:04:56,Jennifer,Kanaitis,44,F,Andover,CT,346
+24,5:11:50,Meridith,Picarelli-Khattar,38,F,Greenwich,CT,367
+25,5:15:49,Jeremy,Shafer,42,M,New Hartford,CT,381
+26,5:16:06,Matt,Matulis,39,M,Woodstock Valley,CT,74
+27,5:16:26,Adam,Briasco,52,M,niantic,CT,279
+28,5:17:30,Michael,Lo Presti,48,M,Plantsville,CT,352
+29,5:21:26,Anna,Garsten,46,F,North Haven,CT,298
+30,5:24:34,David,Ross,42,M,woodbridge,CT,374
+31,5:26:10,Jayann,Bregand,41,F,Farmington Hills,MI,278
+32,5:26:11,Eric,Eder,47,M,Plymouth,MI,289
+33,5:26:42,Bernard,Kelley,54,M,Barrington,RI,347
+34,5:27:24,Robert,Hunter,39,M,Burlington,VT,60
+35,5:31:03,Veronica,Hayes,23,F,WINDHAM,CT,342
+36,5:31:32,Daniel,Pusztai,26,M,Woodbridge,CT,372
+37,5:32:22,Jeremiah,Clark,32,M,Clinton,MA,55
+38,5:33:42,Jackie,St. Louis,31,F,Somerville,MA,385
+39,5:37:43,Keith,Weppler,49,M,Longmeadow,MA,394
+40,5:38:57,Jason,Bacon,48,M,Pawtucket,RI,52
+41,5:41:26,Jason,Levreault,36,M,Hamden,CT,350
+42,5:42:36,Patrick,Quinn,44,M,Warwick,RI,79
+43,5:43:34,Steven,Guyette,34,M,Storrs,CT,59
+44,5:46:25,Stewart,Dutfield,64,M,Delmar,NY,288
+45,5:47:34,Mandy,Mayer,44,F,West Rupert,VT,357
+46,5:49:23,David,Backeberg,39,M,New Haven,CT,245
+47,5:50:27,Paul,Baldini,47,M,north haven,CT,53
+48,5:50:42,Emma,Price,21,F,AMHERST,MA,368
+49,5:53:17,Pete,Despres,53,M,Fairhaven,MA,286
+50,5:57:44,Andrew,Zyrek,51,M,Manchester,CT,399
+51,5:58:45,David,Redline,53,M,Middlebury,CT,373
+52,5:59:14,Stephen,Cuddy,58,M,wallingford,CT,284
+53,5:59:46,Jillian,Ellefson,39,F,Vernon,CT,290
+54,6:00:35,Ted,Cowles,60,M,West Granby,CT,209
+55,6:03:17,Thomas,Parker,53,M,Nashua,NH,252
+56,6:03:48,David,Sutherland,57,M,Coventry,CT,387
+57,6:10:40,Angela,Scarinci,37,F,Hamden,CT,378
+58,6:10:41,Joseph,Laskey,55,M,Southington,CT,348
+59,6:12:19,Melinda,Vaturro,47,F,Boxford,MA,392
+60,6:16:53,Kimber,Green,52,F,Arlington,MA,316
+61,6:16:54,Maxfield,Green,22,M,Arlington,MA,313
+62,6:19:33,Eli,Horowitz,58,M,Falls Village,CT,345
+63,6:21:37,Jennifer,Ferriss,47,F,Saratoga Springs,NY,294
+64,6:22:46,Richard,Fague,42,M,Pascoag,RI,291
+65,6:22:58,Benjamin,Hess,41,M,New Palestine,IN,344
+66,6:23:00,Chelsie,Vawter,30,F,Harrison,TN,393
+67,6:23:17,Toshimi,Haraguni,38,M,Wallingford,CT,322
+68,6:23:47,April,Lionberger,43,F,GLASTONBURY,CT,351
+69,6:24:05,Katya,Divari,57,F,Ashland,MA,287
+70,6:24:15,Christine,Feder,49,F,Westborough,MA,292
+72,6:25:12,Nancy,Rue,57,F,philadelphia,PA,376
+71,6:25:12,Holly,Durstin,51,F,Norfolk,CT,57
+73,6:25:50,Joe,Mack,33,M,Stafford,CT,353
+74,6:28:02,Anna,Proczek,44,F,Coventry,CT,369
+75,6:33:46,John,Muir,58,M,Paterson,NJ,361
+76,6:35:11,Rob,Sawyer,42,M,Griswold,CT,377
+77,6:38:42,Lucio,Bolognani,44,M,Tolland,CT,238
+78,6:45:50,Travis,Allen,44,M,Boxford,MA,212
+79,6:46:01,Mike,Lee,57,M,Manchester,CT,70
+80,7:08:04,Jacki,Smith,49,F,Bristol,CT,383
+81,7:21:31,Barbara,Sorrell,62,F,Delmar,NY,384
+82,7:24:15,Roy,Van Buren,57,M,Woburn,MA,391
+83,7:27:32,Tiffany,Bartlett,35,F,Knoxville,TN,234
+84,7:32:31,Ashley,Blain,40,F,Lebanon,CT,272
+85,7:46:59,David,Raczkowski,69,M,Chaplin,CT,36
+86,7:55:36,Patrick,Canonica,70,M,Boxford,MA,280
+87,7:58:09,Joe,Hayes,71,M,Portsmouth,NH,341
