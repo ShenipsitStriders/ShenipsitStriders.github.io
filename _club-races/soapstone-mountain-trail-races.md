@@ -38,6 +38,13 @@ redirect_from:
 blueblazedtrailrace: true
 ---
 
+Sadly, due to concerns over COVID-19, we have made the difficult decision to 
+cancel the 2020 event as the safety of our runners and volunteers is paramount. 
+If you've already registered, you have been contacted regarding your entry. 
+This decision was heartbreaking for everyone involved: runners, volunteers, and 
+race committee. We hope to see you in 2021.
+{: .alert .alert-danger}
+
 ## Courses
 Both courses cover varying quality dirt roads, unused logging roads, narrow footpaths and a rocky streambed.
 
