@@ -3,9 +3,7 @@
 {%- endcapture -%}
 
 
-    
-
-    
+<div id="results">
 
 {% if page.datafile[1] %}
 <ul class="nav nav-tabs" id="resultsTab" role="tablist">
@@ -13,29 +11,39 @@
     <li class="nav-item"><a class="nav-link{% if forloop.first == true %} active{% endif %}" id="{{file}}-tab" data-toggle="tab" href="#{{file}}Tab" role="tab" aria-controls="{{file}}" aria-selected="{{ forloop.first }}">{{ file }}</a></li>
   {% endfor %}
 </ul>
+
+<div class="tab-content" id="myTabContent">
 {% endif %}
 
 {% for file in page.datafile %}
 {% if page.datafile[1] %}
-<div class="tab-pane fade show{% if forloop.first == true %} active{% endif %}" id="{{ file }}Tab" role="tabpanel" aria-labelledby="{{ file }}-tab">
+<div class="tab-pane fade{% if forloop.first == true %} show active{% endif %}" id="{{ file }}Tab" role="tabpanel" aria-labelledby="{{ file }}-tab">
 {% endif %}
-<table>
-    {% for participant in site.data.results[file] %}
-        <tr>
-            {% if forloop.first == true %}
-                {% for column in participant %}
+<div class="table-responsive" id="{{ file }}Table">
+  <table class="table table-sm table-striped table-hover">
+    {% for participant in site.data.results[file] -%}
+      {% if forloop.first == true %}
+        <thead class="thead-light">
+          {%- for column in participant -%}
             <th>{{column[0]}}</th>
-                {% endfor %}
-        </tr>
+          {%- endfor -%}
+        </thead>
+      {% endif %}
         <tr>
-            {% endif %}
-            {% for column in participant %}
+          {%- for column in participant -%}
             <td>{{column[1]}}</td>
-            {% endfor %}
+          {%- endfor -%}
         </tr>
-    {% endfor %}
-</table>
+    {%- endfor %}
+  </table>
+</div>  <!--#{{ file }}Table-->
 {% if page.datafile[1] %}
-</div>
+</div>  <!--#{{ file }}Tab-->
 {% endif %}
 {% endfor %}
+
+{% if page.datafile[1] %}
+</div>  <!--#tab-content-->
+{% endif %}
+
+</div>  <!--#results-->
