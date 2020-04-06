@@ -6,11 +6,13 @@
 <div id="results">
 
 {% if page.datafile[1] %}
-<ul class="nav nav-tabs" id="resultsTab" role="tablist">
+<nav>
+<div class="nav nav-tabs" id="results-tab" role="tablist">
   {% for file in page.datafile -%}
-    <li class="nav-item"><a class="nav-link{% if forloop.first == true %} active{% endif %}" id="resultSet{{ forloop.index }}-tab" data-toggle="tab" href="#resultSet{{ forloop.index }}Tab" role="tab" aria-controls="{{file}}" aria-selected="{{ forloop.first }}">{{ file }}</a></li>
+    <a class="nav-item nav-link{% if forloop.first == true %} active{% endif %}" id="resultSet{{ forloop.index }}-tab" data-toggle="tab" href="#resultSet{{ forloop.index }}Tab" role="tab" aria-controls="{{file}}" aria-selected="{{ forloop.first }}">{{ file }}</a></li>
   {% endfor %}
-</ul>
+</div>
+</nav>
 
 <div class="tab-content" id="myTabContent">
 {% endif %}

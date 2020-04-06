@@ -37,6 +37,8 @@ collections:
     output: true
   posts:
     permalink: /:year/:month/:day/:title/
+  results:
+    output: true
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
