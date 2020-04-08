@@ -1,5 +1,7 @@
 {%- assign url_path_array = include.page_url | remove: "https" | remove: "http" | remove: "://" | remove: "www." | split: "/" -%}
 {%- case url_path_array[0] -%}
+  {%- when "forms.gle" -%}
+    Google Docs
   {%- when "docs.google.com" -%}
     Google Docs
   {%- when "goo.gl" -%}

@@ -42,7 +42,10 @@ Sadly, due to concerns over COVID-19, we have made the difficult decision to
 cancel the 2020 event as the safety of our runners and volunteers is paramount. 
 If you've already registered, you have been contacted regarding your entry. 
 This decision was heartbreaking for everyone involved: runners, volunteers, and 
-race committee. We hope to see you in 2021.
+race committee. We hope to see you in 2021.\\
+While nothing can replace Soapstone, we are running a virtual event and would be
+ thrilled if you could join us: 
+[Outside Alone]({% link _club-races/outside-alone.md %})
 {: .alert .alert-danger}
 
 ## Courses
