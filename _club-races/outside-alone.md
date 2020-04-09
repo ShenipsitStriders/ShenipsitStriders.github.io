@@ -9,12 +9,12 @@ event:
     date: "2020-05-17"
 image: Outside-Alone.jpg
 location:
-  - address: Anywhere you'd like to run- ALONe 😉
+  - address: Anywhere you'd like to run- ALONe 😉 Roads, trail, or treadmill, just follow all local COVID-19 rules and guidelines!
 registration:
   - url: https://forms.gle/zL2H1Q2SeHLsdJWA8
     add_info: |
         <h3 class="h5">Donation</h3>
-        Donations are completely optional - you're free to participate for free. However, if you do throw in a donation, we'll toss you super sweet Shenipsit Strider Buff-style headgear item. Donations go to the same trail stewardship progams that the rest of our races support.
+        Donations are completely optional - you're free to participate for free. However, if you do throw in a donation, we'll toss you super sweet Shenipsit Strider Buff-style headgear item. Net proceeds from the event will go to the organizations that support our trails and open space.
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
         <input type="hidden" name="hosted_button_id" value="RVGCGZ55AUVMY" />
@@ -32,7 +32,7 @@ registration:
 
 ## What this is:
 
-The Outside Alone is a fun way to share camaraderie together while we're all stuck running alone. It's a collection of distances that you're encouraged to choose, complete, and share.
+The Outside Alone is a fun way to share camaraderie together while we’re all keeping our distance. It’s a collection of distances that you’re encouraged to choose, complete, and share.
 
 First, decide what you're going to run. 
 
@@ -40,6 +40,6 @@ Then, fill out the registration form, link at the bottom of the page.
 
 We are accepting donations. However, the donation is completely optional to participation! If you do donate you get some cool swag though.
 
-Finally, on the weekend of May 15 - 17, complete your choice of distance. On the Facebook event page [https://www.facebook.com/](https://www.facebook.com/){: target="_blank"} post a photo of your GPS, or phone, or link to your Strava or Garmin track. 
+Finally, on the weekend of May 15 - 17, complete your choice of distance. On the Facebook event page [(https://www.facebook.com/events/1502934876544034/)](https://www.facebook.com/events/1502934876544034/){: target="_blank"} post a photo of your GPS, or phone, or link to your Strava or Garmin track by 10pm on Sunday. Other fun photos from your run encouraged‼
 
 As this is entirely self-timed, and on the honor system, we won't be awarding winners. We will list participants for fun though. Also, all participants (those who donated and those who couldn't) will be entered into a raffle and we'll be giving some cool stuff away!
