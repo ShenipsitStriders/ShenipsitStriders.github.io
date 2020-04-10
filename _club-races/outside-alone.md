@@ -40,6 +40,6 @@ Then, fill out the registration form, link at the bottom of the page.
 
 We are accepting donations. However, the donation is completely optional to participation! If you do donate you get some cool swag though.
 
-Finally, on the weekend of May 15 - 17, complete your choice of distance. On the Facebook event page [(https://www.facebook.com/events/1502934876544034/)](https://www.facebook.com/events/1502934876544034/){: target="_blank"} post a photo of your GPS, or phone, or link to your Strava or Garmin track by 10pm on Sunday. Other fun photos from your run encouraged‼
+Finally, on the weekend of May 15 - 17, complete your choice of distance. On the Facebook event page [(https://www.facebook.com/events/889919074763960/)](https://www.facebook.com/events/889919074763960/){: target="_blank"} post a photo of your GPS, or phone, or link to your Strava or Garmin track by 10pm on Sunday. Other fun photos from your run encouraged‼
 
 As this is entirely self-timed, and on the honor system, we won't be awarding winners. We will list participants for fun though. Also, all participants (those who donated and those who couldn't) will be entered into a raffle and we'll be giving some cool stuff away!
