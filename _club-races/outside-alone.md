@@ -14,7 +14,7 @@ registration:
   - url: https://forms.gle/zL2H1Q2SeHLsdJWA8
     add_info: |
         <h3 class="h5">Donation</h3>
-        Donations are completely optional - you're free to participate for free. However, if you do throw in a donation, we'll toss you super sweet Shenipsit Strider Buff-style headgear item. Net proceeds from the event will go to the organizations that support our trails and open space.
+        Donations are completely optional - you're free to participate for free. Net proceeds from the event will go to the organizations that support our trails and open space.
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick" />
         <input type="hidden" name="hosted_button_id" value="RVGCGZ55AUVMY" />
@@ -38,7 +38,7 @@ First, decide what you're going to run.
 
 Then, fill out the registration form, link at the bottom of the page.
 
-We are accepting donations. However, the donation is completely optional to participation! If you do donate you get some cool swag though.
+We are accepting donations. However, the donation is completely optional to participation!
 
 Finally, on the weekend of May 15 - 17, complete your choice of distance. On the Facebook event page [(https://www.facebook.com/events/889919074763960/)](https://www.facebook.com/events/889919074763960/){: target="_blank"} post a photo of your GPS, or phone, or link to your Strava or Garmin track by 10pm on Sunday. Other fun photos from your run encouraged‼
 
