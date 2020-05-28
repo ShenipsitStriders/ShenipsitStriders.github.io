@@ -7,7 +7,7 @@ title: Contact Us
 
 The club is steered by a Board that holds open meetings at different times throughout the year. The current club officers are:
 
-President: [Emma Palmacci](mailto:pres@shenipsitstriders.org)
+President: [Emma](mailto:pres@shenipsitstriders.org)
 
 Vice President: [Autumn Cyr](vp@shenipsitstriders.org)
 
