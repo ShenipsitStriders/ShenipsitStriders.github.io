@@ -11,8 +11,7 @@ image: Outside-Alone.jpg
 location:
   - address: Anywhere you'd like to run- ALONe 😉 Roads, trail, or treadmill, just follow all local COVID-19 rules and guidelines!
 registration:
-  - url: https://forms.gle/zL2H1Q2SeHLsdJWA8
-    add_info: |
+  - add_info: |
         <h3 class="h5">Donation</h3>
         Donations are completely optional - you're free to participate for free. Net proceeds from the event will go to the organizations that support our trails and open space.
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
