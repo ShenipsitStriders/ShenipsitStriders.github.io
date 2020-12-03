@@ -22,8 +22,6 @@ Returning for 2021: Shenipsit Striders and Connecticut Forest & Park Association
 * A subscription to the CFPA quarterly magazine: Connecticut Woodlands Rock, Root & Trail - CFPA's member newsletter
 * Invitations to Special Events and Meetings and the right to vote on CFPA Business
 * A copy of CFPA's Annual Conservation Agenda
-* A copy of the Connecticut Trails Day Booklet
-* Discounts on books, printed maps, and other items in the online CFPA store
 * *The primary benefit of Connecticut Forest & Park Association (CFPA) membership is that you are making a difference to Connecticut conservation by supporting the Association and helping continue its long history of effective advocacy, education, and land and trail conservation work.*
 
 You can choose between a Shenipsit Strider single or family membership, OR a Shenipsit Strider and CFPA combined single or family membership with a discount for signing up for both!
