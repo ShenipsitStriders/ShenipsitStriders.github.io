@@ -4,32 +4,41 @@ title: New Year Fatass
 description: The New Year Fatass is our annual run to kick off the new year.
 event: 
   - name: New Year Fatass
-    date: "2021-01-01"
+    date: "2020-01-01T08:00:00-05:00"
+location:
+  - address: 300 Valley Falls Rd, Vernon, CT
+    map: https://www.google.com/maps/dir//Valley+Falls+Park,+300+Valley+Falls+Rd,+Vernon,+CT+06066/@41.8234, -72.4433,13z
+    name: Valley Falls Park
 registration:
-  - url: https://www.facebook.com/events/1171779049903435/
+  - url: https://www.facebook.com/events/2502175383212429/
     add_info: |
         *Join our event page on Facebook to be kept up to date. No registration is required - show up when you want!*
 
         ### Entry Fees
         Zip, zilch, nada.
+
+        Keeping with the traditional fatass event rules, there is no entry fee. There is also no official support on the course, although there's a good chance that there will be some water, gatorade, and other goodies. **We encourage everyone to bring a treat to share.**
 redirect_from:
   - /club-races/new-year-fatass.htm
 ---
 
 ## Description
-The Shenipsit Striders' New Year Fatass is a club tradition that just so happens to be the best way to bring in a new year. As we can all agree that we need a new year more than ever, hopefully you'll be able to participate in our socially distanced, remote running, kick-the-old-year-to-the-curb, 2021 edition.
+Ring in the New Year with the traditional Shenipsit Strider fat-ass style event! Once again we'll be meeting at Valley Falls park in Vernon.
 
-Fatasses are known for their laid back atmosphere. We're taking it up a notch and making the 2021 New Year Fatass chiller than ever before!
+Fat ass events are very low key. It's not a race, it's a social extravaganza! The event is held for 6 hours on New Years Day from 8:00 AM to 2:00 PM. There will be a ~4km course marked with Strider flags for you to follow. Show up at 8:00 AM or any time after, and run and/or hike for as much or little as you like. The event is entirely self-timed and there will be a sheet for all participants to track their laps.
 
-Venue: Given that we are going to be socially distanced and remote, this year the venue is anywhere you want it to be. We are **\*not\*** having the customary gathering for obvious health reasons. Instead, for 2021 you can do the run anywhere that you want as long as it is safe to do so. Find a cool trail, or even hop on the treadmill at home. Just get some miles in!
+Keeping with the traditional fatass event rules, there is no entry fee. There is also no official support on the course, but we encourage everyone to bring a treat to share.
 
-Speaking of miles: the fatass is a run-what-you want event, in a 6 hour window. Run as many or as few miles as you want in that window. Want to do a 20 minute walk that covers a mile? Or do a 50k in 6 hours? Anything goes!
+## Course
+Fat-ass events are very low-key. It's not a race, it's a social extravaganza! The event is held for 6 hours on January 1 - from 8:00 AM to 2:00PM. There will be a 2.5 mile course marked with Strider flags for you to follow. Show up at 8:00 or any time after, and run and/or hike for as much or little as you like. The event is entirely self-timed and there will be a sheet for all participants to track their laps.
 
-Trail Support: Sadly, no sharing of food or beverage this year 🙁
+## Awards
+The satisfaction of showing up for a run on New Year Day is all the reward a runner really needs.
 
-Timing: The New Year Fatass has always been self-recorded, and some things are timeless - it's self recorded this year too! When you've completed your New Year run, you'll self-report through a web form (which we will be setting up closer to January 1).
-Awards: This year calls for something to cheer us all up. We've got some cool custom-made Strider New Year Fatass stickers made up and will mail them out to all participants who want one. That will be done when you report your run as mentioned above.
+## Weather Policy
+**None**
 
-Entry fees: Nope
+We will be there, regardless of any weather conditions that fortune shares with us!
 
-We ask everyone to follow all state health guidelines while out on their run, and we look forward to 2021 being a better year!
+## 2019 Results
+Results found at: [Coolrunning.com](http://www.coolrunning.com/results/19/ct/Jan1_Shenip_set1.shtml){:target="_blank" title="New Year Fatass Results"}
