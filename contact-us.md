@@ -11,7 +11,7 @@ President: [Emma](mailto:pres@shenipsitstriders.org)
 
 Vice President: [Autumn Cyr](vp@shenipsitstriders.org)
 
-Secretary: [Denise Irving](mailto:secretary@shenipsitstriders.org)
+Secretary: [Jillian Ellefson](mailto:secretary@shenipsitstriders.org)
 
 Treasurer: [Tony Bonanno](mailto:treas@shenipsitstriders.org)
 
