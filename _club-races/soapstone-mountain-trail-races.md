@@ -4,9 +4,9 @@ title: Soapstone Mountain Trail Races
 description: Two classic events taking place in Shenipsit State Forest - the Soapstone Mountain 24k and the 6k Jerry Stage Sampler
 event: 
   - name: Soapstone Mountain 24k
-    date: "2020-05-17T09:00:00-04:00"
+    date: "2021-05-16T09:00:00-04:00"
   - name: Jerry Stage 6k
-    date: "2020-05-17T09:15:00-04:00"
+    date: "2021-05-16T09:15:00-04:00"
 image: striders3.jpg
 location:
   - address: 93 Handel Rd, Stafford, CT
@@ -38,47 +38,25 @@ redirect_from:
 blueblazedtrailrace: true
 ---
 
-Sadly, due to concerns over COVID-19, we have made the difficult decision to 
-cancel the 2020 event as the safety of our runners and volunteers is paramount. 
-If you've already registered, you have been contacted regarding your entry. 
-This decision was heartbreaking for everyone involved: runners, volunteers, and 
-race committee. We hope to see you in 2021.\\
-While nothing can replace Soapstone, we are running a virtual event and would be
- thrilled if you could join us: 
-[Outside Alone]({% link _club-races/outside-alone.md %})
-{: .alert .alert-danger}
+## Event Overview
 
-## Courses
-Both courses cover varying quality dirt roads, unused logging roads, narrow footpaths and a rocky streambed.
+### Virtual Options
+Anyone who would prefer to race "virtually" on the actual race course will have that choice at registration. You will have from May 8 to May 23 to run the race course on your own and report your time at Ultrasignup. The course GPX and Alltrails map will be released soon and we highly encourage everyone to do some practice runs on course using the map. Our virtual racers will receive the race swag and be listed in the virtual event results.
 
-### 24 km Race
-The course has a length of **24 km**.
+### In Person Option with COVID changes
+We are opening registration but will not collect fees until we have reviewed the spring state COVID guidelines. **THERE WILL BE NO DAY OF REGISTRATION.** We expect to have more information in March and will update the COVID changes needed at that point. It is expected that we WILL have to cap the number of entrants and will need staggered start times. We will use a First Come First Served method to determine who gets into the in-person race. Anyone on the waitlist after we have capped the registrant numbers will be given an option to convert to a virtual event.
 
-#### Aid Stations
-There will be **3 or more aid stations** along the course with at least water.
+## Course
 
-#### Cutoffs
-Runners should reach
+The Soapstone Mountain Trail Races are popular, long-standing races in North Central Connecticut. There are two races on event day: a 24k (approx. 14.5 miles) and the Jerry Stage 6k "Sampler". This is in honor of the many years of love, sweat and tears that Jerry Stage put into these races. Both races run through the extremely beautiful and scenic area around Soapstone Mountain, Shenipsit Forest State Park. Race course GPX and AllTrails maps will be posted in February, we highly recommend you get familiar with the course, particular if you are running it virtually!
 
-* Aid Station 2 (approximately the 8 mile mark) in a time **≤ 2.5 hs**, AND
-* Aid Station 3 (approximately the 12.5 mile mark) in a time **≤ 3.5 hs**.
+Participants in the 24k race climb to the peak of Soapstone Mountain. Walkers are welcome in the Sampler.
 
+### 24k Course
+The first 2.5 miles of the 24k and the 6k are the same. The course travels along a slightly downhill dirt road before veering right onto an ATV trail. Passing a pond onto a single track trail, turns left onto a dirt road and right back into single track. Soon coming out onto dirt road where you take a right to cross the paved road (Gulf Rd). After traversing the parking lot, the trail makes another sharp right where participants are challenged with the first difficult climb - a very steep 1/2 mile trail named "Killer Hill". Once at the top of the hill, runners travel by the Soapstone Mountain observation tower and then run down a steep descent. Following the downhill, the trail becomes a series of switchbacks and rollers through the woods - though it's challenging, the rollers aren't steep enough to dramatically alter one's overall pace. There are brook crossings and a muddy stream descent. There are lots of rocks and roots to twist ankles on. Watch your footing! There are also many crisscrossing trails, so keep your eyes on the white dots and flagging. Towards the latter half of the race, the course has one more significant climb up a single track, followed by a steep descent on a dirt trail continuing on dirt road and finishing on single track to end the race in a grassy field surrounded by family and friends. In areas where the trail overlaps, splits or is tricky there will be additional flagging.
 
-### 6 km Jerry Stage Sampler
-The course has a length of **5.86 km**. The terrain shares some of the features of the 24 km course.
+### Jerry Stage 6k "SAMPLER" Course
+This race starts on the same dirt road as the 24k, turns right onto single track within a 1/2 mile and then meanders through thick forest before turning left on the same dirt road at the 24K and right back onto single track trail, then left onto more dirt road, a right hand turn into the woods and finishing on grassy field. The course is marked with flagging and signs.
 
-*The courses include a number of steep, rocky, slippery, or otherwise treacherous areas. Though injuries have been few and minor during past races, a serious injury is possible. **Because parts of the long course are relatively inaccessible, it is possible that an injured runner might have to wait an hour or more for emergency medical care.** Please do NOT enter either race if you are not prepared to accept responsibility for yourself and these risks.*
-
-## Awards
-Unique trophies go to the top finisher(s) in each age-group division. The number of trophies for each division will be based on the number of pre-entrants in each. A division must have at least two entrants for a trophy to be given.
-
-## Miscellaneous Information
-Both races feature computerized timing and results. A delicious vegetarian picnic will follow (a donation of $5 is welcome from those not racing).
-
-Distinctive *organic cotton* T-shirts are available for $20. Guarantee yours by pre-registering. A limited number will be available for day-of-race registrants.
-
-Free camping is available in the RRRC campground Saturday night for those pre-registered (please email the RD). There are no changing or shower facilities.
-
-### Mail-in Registration
-
-If you prefer mail-in registration, download and print the registration form [here]({{site.baseurl}}/maps/2018SoapstonePreregistrationForm.pdf){: target="_blank"}
+## Benefactors
+Proceeds will go to trail stewardship organizations in Connecticut, such as the [Connecticut Forest and Park Association](https://www.ctwoodlands.org/){: target="_blank"}, [Joshua’s Trust](https://joshuastrust.org/){: target="_blank"}, and [Northern Connecticut Land Trust](https://northernctlandtrust.org/){: target="_blank"}.

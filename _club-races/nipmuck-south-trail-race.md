@@ -4,7 +4,7 @@ title: Nipmuck South Trail Race
 description: The **Nipmuck South Trail Race** is a **14.5 mi race** that for the most part follows the Fenton river.
 event: 
   - name: Nipmuck South Trail Race
-    date: "2020-06-14T09:00:00-04:00"
+    date: "2021-06-13T09:00:00-04:00"
 image: nipmucksouthgroup.jpg
 location: 
   - address: Bassetts Bridge Road, Mansfield, CT
@@ -31,13 +31,6 @@ redirect_from:
   - /club-races/nipmuck-south-trail-race.htm
 blueblazedtrailrace: true
 ---
-
-Sadly, due to concerns over COVID-19, we have made the difficult decision to 
-cancel the 2020 event as the safety of our runners and volunteers is paramount. 
-If you've already registered, you have been contacted regarding your entry. 
-This decision was heartbreaking for everyone involved: runners, volunteers, and 
-race committee. We hope to see you in 2021.
-{: .alert .alert-danger}
 
 ## Course
 The race is an **out-and-back** covering a distance of **14.5 mi**.
