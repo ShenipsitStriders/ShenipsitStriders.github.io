@@ -41,20 +41,20 @@ blueblazedtrailrace: true
 ## Course
 The race is an **out-and-back** covering a distance of **14.5 mi**.
 
-The [course](http://shenipsitstriders.org/wp-content/uploads/2014/12/nipmuck_south_course.pdf){: target="_blank"} has some interesting trail variations over beautiful terrain, with several small bridge crossings, a climb to a 50 ft cliff, fields, and woods. The race starts at Mansfield Hollow State Park and winds its way to Old Turnpike Road (off Route 44). There are three road crossings that will be staffed by volunteers from the Mansfield Fire Department.
+The [course](http://shenipsitstriders.org/wp-content/uploads/2014/12/nipmuck_south_course.pdf){: target="_blank"} has some interesting trail variations over beautiful terrain, with several small bridge crossings, a climb to a 50 ft cliff, fields, and woods. The race starts at Mansfield Hollow State Park and winds its way to Old Turnpike Road (off Route 44). There are three road crossings that runners must be cautious of while crossing.
 
-### A taste of 2019's event
-<iframe width="427" height="240" src="https://www.youtube-nocookie.com/embed/AA_qWkJ1gMU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Covid-19 Update
+### Virtual Options
+Anyone who would prefer to race "virtually" on the actual race course will have that choice at registration. You will have from June 5 to June 20 to run the race course on your own and report your time at Ultrasignup. The course GPX and Alltrails map will be released soon and we highly encourage everyone to do some practice runs on course using the map. Our virtual racers will receive the race swag and be listed in the virtual event results.
 
-## Aid Stations
-There will be **3 aid stations** along the course at **miles 3.5, 7 (turnaround), and 10.5** (stations 1 and 3 are the same but encountered both during outbound and inbound runs). Each station will have water and energy snacks such as fruits and pretzels.
+### In Person Option with COVID changes
+We are opening registration but will not collect fees until we have reviewed the spring state COVID guidelines. We expect to have more information in March and will update the COVID changes needed at that point. THERE WILL BE NO DAY OF REGISTRATION. It is expected that we WILL have to cap the number of entrants (we expect to be able to let in ~50) and will need staggered start times. We will use a First Come First Served method to determine who gets into the in-person race. Anyone on the waitlist after we have capped the registrant numbers will be given an option to convert to a virtual event.
 
-*The race course includes a number of steep, rocky, slippery, or otherwise treacherous areas. Though injuries have been few and minor during past races, a serious injury is possible. **Because parts of the course are relatively inaccessible, it is possible that an injured runner might have to wait an hour or more for emergency medical care.** Please do NOT enter this race if you are not prepared to accept responsibility for yourself and these risks.*
+## Benefactors
+Proceeds will go to trail stewardship organizations in Connecticut, such as the [Connecticut Forest and Park Association](https://www.ctwoodlands.org/){: target="_blank"}, [Joshua’s Trust](https://joshuastrust.org/){: target="_blank"}, and [Northern Connecticut Land Trust](https://northernctlandtrust.org/){: target="_blank"}.
 
-## Awards
-Recognition will be given for overall female and male winners as well as division winners.
+## Course
+The race is an out-and-back on the Nipmuck covering a distance of 14.5 mi, following the lovely Fenton River for much of the course. The trail has some interesting variations over beautiful terrain, with several small bridge crossings, a climb to a 50 ft cliff, fields, and woods. The race starts at Mansfield Hollow State Park and winds its way to Old Turnpike Road (off Route 44). Race course GPX and AllTrails maps will be posted in February, we highly recommend you get familiar with the course, particular if you are running it virtually! www.shenipsitstriders.org
 
-## Miscellaneous Information
-Food and beverages will be provided as a courtesy to runners after the race.
-
-The start has two outdoor bathroom facilities which are new and clean. There are picnic tables and a hand water pump. Parking is available without charge very close to the start of the race.
+## Location/directions
+The race start is at the picnic area at Mansfield Hollow State Park off of Bassets Bridge Rd in Mansfield, CT. Parking is available without charge very close to the start of the race.
