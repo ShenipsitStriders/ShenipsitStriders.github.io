@@ -5,6 +5,10 @@ description: The **Nipmuck South Trail Race** is a **14.5 mi race** that for the
 event: 
   - name: Nipmuck South Trail Race
     date: "2021-06-13T09:00:00-04:00"
+  - name: "'Virtual' option start"
+    date: "2021-06-05"
+  - name: "'Virtual' option end"
+    date: "2021-06-20"
 image: nipmucksouthgroup.jpg
 location: 
   - address: Bassetts Bridge Road, Mansfield, CT
@@ -16,8 +20,10 @@ registration:
     add_info: |
         ## Entree Fees
 
-        * $25 for preregisteration at UltraSignup or $30 day-of-race
-        * The Nipmuck South Trail Race has a no-refund policy
+        * $25 for the classic 'day-of' race
+        * $20 for the 'virtual' race
+
+        To manage the health risk for all runners and volunteers, there is **absolutely no** day-of registration
 race_director: 
   - name: Scott Edington
     email: nipmucksouth@shenipsitstriders.org

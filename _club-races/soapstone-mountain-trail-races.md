@@ -7,6 +7,10 @@ event:
     date: "2021-05-16T09:00:00-04:00"
   - name: Jerry Stage 6k
     date: "2021-05-16T09:15:00-04:00"
+  - name: "'Virtual' option (24k or 6k) start"
+    date: "2021-05-08"
+  - name: "'Virtual' option (24k or 6k) end"
+    date: "2021-05-23"
 image: striders3.jpg
 location:
   - address: 93 Handel Rd, Stafford, CT
@@ -19,12 +23,14 @@ registration:
         ### Entry Fees
 
         24 km race:
-        : $25 if you preregister or $30 if you register day-of-race
+        : $25 for the classic 'day-of' race
+        : $20 for the 'virtual' race
 
         6 km race:
-        : $12 if you preregister or $15 if you register day-of-race
+        : $20 for the classic 'day-of' race
+        : $15 for the 'virtual' race
 
-        Fees are **non-refundable**.
+        To manage the health risk for all runners and volunteers, there is **absolutely no** day-of registration
 race_director:
   - name: Dan Tourtellotte
     email: soapstone@shenipsitstriders.org
