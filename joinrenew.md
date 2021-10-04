@@ -5,7 +5,7 @@ title: Join/Renew
 
 # {{ page.title }}
 
-Returning for 2021: Shenipsit Striders and Connecticut Forest & Park Association (CFPA) have partnered to offer a discounted membership option for those looking to join both organizations.
+Returning for 2022: Shenipsit Striders and Connecticut Forest & Park Association (CFPA) have partnered to offer a discounted membership option for those looking to join both organizations.
 {: .alert .alert-info}
 
 ## Joining the Shenipsit Striders trail running club includes the following benefits:
