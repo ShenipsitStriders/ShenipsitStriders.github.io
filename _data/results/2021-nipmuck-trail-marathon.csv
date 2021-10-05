@@ -1,0 +1,52 @@
+place,bib,first,last,gender,age,city,state,time
+1,24,Juan,Chacón,M,29,Norwich,CT,3:33:33.7
+2,2,Brendan,Atkins,M,36,Old Lyme,CT,3:35:46.1
+3,365,Shaun,Berard,M,40,Portland,CT,3:46:59.9
+4,26,Cameron,Collins,M,25,Moosup,CT,4:16:26.8
+5,1198,Michael,Yanchuk,M,37,Pawtucket,RI,4:18:16.4
+6,1017,Shane,Murphy,M,39,Mansfield,CT,4:35:02.9
+7,23,Howie,Breinan,M,52,Manchester,CT,4:35:32.3
+8,16,Daniel,Brehant,M,35,WILLIMANTIC,CT,4:45:09.3
+9,33,Jake,Gaeta,M,43,Storrs,CT,4:54:37.7
+10,34,Hadrian,Gardner,M,30,Newtown,CT,5:03:36.1
+11,11,John,Bates,M,39,WETHERSFIELD,CT,5:04:11.4
+12,1137,Brian,Shafer,M,45,Litchfield,CT,5:04:24.8
+13,14,Chiara,Bistarelli,F,49,Newton,NJ,5:07:07.5
+14,388,James,Pierce,M,42,Woodstock,CT,5:09:06.1
+15,1181,Noah,Ventola,M,42,Durham,CT,5:09:55.7
+16,1172,Anthony,Tieuli,M,48,Northbridge,MA,5:11:43.5
+17,354,Kelsey,Eng,F,29,Glastonbury,CT,5:19:49.8
+18,218,Jim,Hoffecker,M,34,New Haven,CT,5:20:23.2
+19,13,Nicholas,Bhaskaran,M,29,Rochester,MN,5:21:53.5
+20,1111,Robert,Small,M,54,Stanhope,NJ,5:22:05.6
+21,1159,Rachel,Spurrier,F,40,West Hartford,CT,5:27:28.4
+22,27,Ted,Cowles,M,62,West Granby,CT,5:28:27.7
+23,1049,Craig,Paton,M,50,Ellington,CT,5:42:25.8
+24,1084,Pete,Despres,M,55,Fairhaven,MA,5:43:16.6
+25,1096,Jennifer,Pruden,F,49,Succasunna,NJ,5:46:02.0
+26,1026,Vincent,Ma,M,52,San Jose,CA,6:06:56.7
+27,3,Matthew,Austin,M,37,Terryville,CT,6:14:40.7
+28,1168,Kevin,Mullen,M,64,Fairhaven,MA,6:14:45.4
+29,363,Nannette,Kyer,F,54,Coventry,CT,6:27:51.6
+30,1160,Peggy,Kelley,F,54,Woburn,MA,6:32:51.7
+31,29,Christopher,Delagrange,M,56,Byram Township,NJ,6:37:47.6
+32,1170,David,Redline,M,55,Middlebury,CT,6:38:20.6
+33,300,Bernard,Kelley,M,56,Barrington,RI,6:42:52.6
+34,9,Katya,Divari,F,59,Ashland,MA,6:49:48.4
+35,382,Scott,Picchioni,M,51,Farmington,CT,6:50:17.4
+36,1169,James,Patsun,M,26,Somers,CT,6:50:20.8
+37,370,Scott,Rice,M,46,Canterbury,CT,6:53:54.9
+38,1176,Sundar,Varadarajan,M,45,Ellington,CT,6:54:13.6
+39,1126,Christine,Feder,F,51,Westborough,MA,6:57:47.8
+40,380,Ron,Locandro,M,55,Simsbury,CT,7:06:15.5
+41,31,Holly,Durstin,F,53,Norfold,CT,7:06:17.0
+42,1161,Cindy,Sullivan,F,40,Guilford,CT,7:09:17.7
+43,1171,Suren,Thirumappan,M,45,Ellington,CT,7:15:46.1
+44,1131,Karen,Prado,F,55,Wethersfield,CT,7:17:39.7
+45,51,Frederick,Hawran,M,59,windsor,CT,7:24:52.1
+46,1189,Dennis,White,M,68,stratford,CT,7:33:26.8
+47,1153,Aman,Singh,M,27,Wethersfield,CT,7:33:42.3
+48,1149,Barbara,Sorrell,F,64,Delmar,NY,7:38:24.3
+49,36,Rick,Gibbons,M,61,Lexington,SC,7:55:21.1
+50,20,Patrick,Canonica,M,72,Boxford,MA,8:05:16.2
+51,38,David,Raczkowski,M,70,Chaplin,CT,9:05:58.3

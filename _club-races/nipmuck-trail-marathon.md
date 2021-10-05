@@ -21,6 +21,8 @@ race_director:
   - name: Dave Merkt
     email: nipmuck@shenipsitstriders.org
 results: 
+  - year: 2021
+    url: http://shenipsitstriders.org/results/2021/nipmuck-trail-marathon.html
   - year: 2020
     url: http://shenipsitstriders.org/results/2020/nipmuck-trail-marathon.html
   - year: 2019
