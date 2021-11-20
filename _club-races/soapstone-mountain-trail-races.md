@@ -4,13 +4,9 @@ title: Soapstone Mountain Trail Races
 description: Two classic events taking place in Shenipsit State Forest - the Soapstone Mountain 24k and the 6k Jerry Stage Sampler
 event: 
   - name: Soapstone Mountain 24k
-    date: "2021-05-16T09:00:00-04:00"
+    date: "2022-05-15T09:00:00-04:00"
   - name: Jerry Stage 6k
-    date: "2021-05-16T09:15:00-04:00"
-  - name: "'Virtual' option (24k or 6k) start"
-    date: "2021-05-08"
-  - name: "'Virtual' option (24k or 6k) end"
-    date: "2021-05-23"
+    date: "2022-05-15T09:15:00-04:00"
 image: striders3.jpg
 location:
   - address: 93 Handel Rd, Stafford, CT
@@ -35,22 +31,16 @@ race_director:
   - name: Dan Tourtellotte
     email: soapstone@shenipsitstriders.org
 results: 
+  - year: 2021
+    url: https://ultrasignup.com/results_event.aspx?did=82585
   - year: 2019
-    url: http://ultrasignup.com/results_event.aspx?did=62344
+    url: https://ultrasignup.com/results_event.aspx?did=62344
   - year: 2018
-    url: http://aratrace.com/soapstone-mountain-trail-races-4/
+    url: https://aratrace.com/soapstone-mountain-trail-races-4/
 redirect_from:
   - /club-races/soapstone-mountain-trail-races.htm
 blueblazedtrailrace: true
 ---
-
-## Event Overview
-
-### Virtual Options
-Anyone who would prefer to race "virtually" on the actual race course will have that choice at registration. You will have from May 8 to May 23 to run the race course on your own and report your time at Ultrasignup. The course GPX and Alltrails map will be released soon and we highly encourage everyone to do some practice runs on course using the map. Our virtual racers will receive the race swag and be listed in the virtual event results.
-
-### In Person Option with COVID changes
-We are opening registration but will not collect fees until we have reviewed the spring state COVID guidelines. **THERE WILL BE NO DAY OF REGISTRATION.** We expect to have more information in March and will update the COVID changes needed at that point. It is expected that we WILL have to cap the number of entrants and will need staggered start times. We will use a First Come First Served method to determine who gets into the in-person race. Anyone on the waitlist after we have capped the registrant numbers will be given an option to convert to a virtual event.
 
 ## Course
 
