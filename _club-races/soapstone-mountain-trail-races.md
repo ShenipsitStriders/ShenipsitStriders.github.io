@@ -15,18 +15,6 @@ location:
     location_url: http://reddingtonrockridingclub.org
 registration: 
   - url: https://ultrasignup.com/register.aspx?eid=3336
-    add_info: |
-        ### Entry Fees
-
-        24 km race:
-        : $25 for the classic 'day-of' race
-        : $20 for the 'virtual' race
-
-        6 km race:
-        : $20 for the classic 'day-of' race
-        : $15 for the 'virtual' race
-
-        To manage the health risk for all runners and volunteers, there is **absolutely no** day-of registration
 race_director:
   - name: Dan Tourtellotte
     email: soapstone@shenipsitstriders.org

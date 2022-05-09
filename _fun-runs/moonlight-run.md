@@ -7,7 +7,7 @@ event:
     date: "2022-03-08T18:15:00-04:00"
 location: 
   - address: Walker Reservoir - Vernon, CT
-    map: https://goo.gl/maps/bXCk7LjcjRknTjhc7
+    map: http://goo.gl/maps/u9myB
 redirect_from:
   - /fun-runs/moonlight-run.htm
 registration:

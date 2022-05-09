@@ -12,14 +12,12 @@ location:
     name: Bigelow Hollow State Park
 registration: 
   - url: https://ultrasignup.com/register.aspx?dtid=48159
-    add_info: |
-        ### Entry Fees
-
-        $12.00, preregistration on UltraSignup required
 race_director:
   - name: Tony Bonanno
     email: treas@shenipsitstriders.org
-results: 
+results:
+  - year: 2022
+    url: https://ultrasignup.com/results_event.aspx?did=93503
 blueblazedtrailrace: false
 ---
 
