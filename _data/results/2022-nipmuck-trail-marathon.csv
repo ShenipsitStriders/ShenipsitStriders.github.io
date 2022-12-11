@@ -1,0 +1,79 @@
+place,first,last,gender,age,ShenipsitStriderMember,CatNipRunner,city,state,bib,time
+1,Justin,Kousky,M,42,,,Westport,CT,1168,3:24:30
+2,Daniel,Rogoz,M,30,,,Hamden,CT,180,3:42:47
+3,Austin,Frank,M,23,Y,,Glastonbury,CT,152,3:49:54
+4,Camden,Stockdale,M,23,,,Durham,CT,189,3:55:52
+5,Lee,Davis,M,41,,,Hamden,CT,142,4:02:23
+6,Howie,Breinan,M,53,Y,,Manchester,CT,1129,4:02:58
+7,Tony,Didomizio,M,37,,,Rocky Hill,CT,145,4:09:58
+8,Daniel,Brehant,M,36,,,WILLIMANTIC,CT,126,4:21:02
+9,Sarah,Connor,F,33,,,New Haven,CT,1184,4:31:57
+10,Dave,Champoux,M,58,,,Florence,MA,133,4:46:09
+11,Cameron,Collins,M,26,,,Moosup,CT,1167,4:47:47
+12,Tony,Bonanno,M,57,Y,,Ellington,CT,8,4:50:33
+13,Thomas,Dodd,M,42,,,Greenwich,CT,147,4:51:09
+14,Kara,Piergentili,F,27,,,Vernon,VT,175,4:51:11
+15,Michael,Medeiros,M,37,Y,,west hartford,CT,163,4:52:33
+16,Jeffrey,Mitchell,M,41,Y,,West Hartford,CT,165,4:54:11
+17,Sheryl,Wheeler,F,59,,,Earlton,NY,197,4:55:16
+18,Sam,Farnsworth,M,62,,,Stow,MA,150,4:55:58
+19,Kelsey,Eng,F,30,Y,Yes,Glastonbury,CT,390,4:59:23
+20,Ben,Shore,M,40,,,Medford,MA,184,5:02:44
+21,Greg,Carreira,M,43,,,Stafford,CT,131,5:07:05
+22,Julie,Fraysier,F,37,,Yes,Windsor,CT,148,5:07:07
+23,Rebecca,Burke,F,47,,,Portland,CT,1169,5:18:17
+24,Ashley,Mattingly,F,45,,,Mansfield Center,CT,32,5:18:23
+25,Kevin,Mullen,M,65,,,Fairhaven,MA,35,5:20:40
+26,Rohit,Shah,M,40,,,Boston,MA,1064,5:21:09
+27,Christian,D'amour,M,33,,,Wilbraham,MA,140,5:21:39
+28,Meghan,Moscarelli,F,24,,,West Haven,CT,167,5:22:44
+29,Harriet,Booth,F,31,,,Hyannis,MA,123,5:33:02
+30,Erin,Nolan,F,37,Y,,Manchester,CT,169,5:34:05
+31,William,Leviness,M,45,,,Litchfield,CT,21,5:38:21
+32,David,Redline,M,56,,,Middlebury,CT,179,5:40:04
+33,Scott,Johnson-Yasufuku,M,44,Y,,Hampden,MA,259,5:43:14
+34,Matthew,Dieringer,M,41,,,Pomfret Center,MA,1177,5:43:55
+35,Jeff,Jakobsen,M,47,,,Torrington,CT,155,5:45:09
+36,Charles,Ross,M,29,,,WESTPORT,CT,182,5:46:38
+37,Robert,Dibartolomeo,M,28,,,Westport,CT,144,5:48:08
+38,Alex,Bolobine,M,44,,,Lafayette,CA,122,5:49:24
+39,Justin,Planz,M,44,,,Bridgewater,CT,17,5:49:36
+40,Matthew,Austin,M,38,,,Terryville,CT,117,5:52:54
+41,Cherie,Bilbie,F,47,Y,,Ellington,CT,121,5:54:00
+42,Ted,Cowles,M,63,Y,,West Granby,CT,138,5:59:04
+43,Franklyn,Gandiaga,M,35,,,Derby,CT,153,5:59:08
+44,Pete,Despres,M,56,,,Fairhaven,MA,143,5:59:44
+45,Alex,Brown,M,27,Y,Yes,Vernon,CT,127,6:04:10
+46,Vincent,Ma,M,53,,,San Jose,CA,161,6:09:14
+47,Stephen,Cuddy,M,61,,,wallingford,CT,1176,6:09:18
+48,Mirela,Postelnicu,F,47,,,Middletown,CT,177,6:16:00
+49,Serena,Crutchfield,F,40,,,Medford,MA,139,6:18:54
+50,Scott,Johnson,M,41,Y,,Holden,MA,156,6:21:36
+51,Brad,Pellissier,M,65,Y,,Somers,CT,172,6:22:16
+52,Jenny,Carpenter,F,51,,,Rhinebeck,NY,130,6:22:30
+53,Lauren,Pinchbeck,F,51,,,Wilton,CT,176,6:25:54
+54,Catherine,Walsh,F,46,Y,,Bethany,CT,195,6:28:23
+55,Belinda,Perez,F,47,Y,,south Windsor,CT,173,6:28:34
+56,James,Barnard,M,43,,,Eastham,MA,118,6:34:55
+57,Ross,Petrone,M,30,,,Milford,CT,174,6:36:18
+58,Bernard,Kelley,M,57,,,Barrington,RI,157,6:40:06
+59,Roy,Van Buren,M,60,,,Woburn,MA,192,6:43:53
+60,Stephanie,Sibille,F,36,,Yes,Granby,CT,185,6:46:13
+61,Susan,Irvine,F,51,Y,,Ashford,CT,1154,6:47:07
+62,Andrew,Nepomuceno,M,32,,,Burlington,CT,168,6:47:12
+63,Christine,Feder,F,52,,,Westborough,MA,151,6:52:03
+64,Katya,Divari,F,60,,,Ashland,MA,146,6:53:17
+65,Sarah,Luedee,F,30,,,West Haven,CT,160,6:55:38
+66,Jason,Snukis,M,43,,,SOMERS,CT,25,6:55:52
+67,Lydia,Warters,F,27,,,Dalton,MA,196,6:57:00
+68,Donovan,Snyder,M,27,,,Dalton,MA,187,6:57:00
+69,Patrick,Cormier,M,58,,,Mansfield Center,CT,137,7:00:48
+70,Dana,Cleary,F,51,,,Waterbury,CT,135,7:01:08
+71,Joe,Slepski,M,66,,,Wethersfield,CT,186,7:04:04
+72,Barbara,Sorrell,F,65,,,Delmar,NY,188,7:10:43
+73,Erin,Wilkie,F,33,Y,,Clinton,MA,198,7:19:48
+74,Karen,Prado,F,56,Y,Yes,Wethersfield,CT,386,7:21:52
+75,Caroline,Leean,F,60,,,Woodbridge,VA,159,7:43:34
+76,Matthew,Wakelee,M,26,,,Enfield,CT,194,7:43:36
+77,Marissa,Cadieux,F,25,,,Enfield,CT,128,7:43:57
+78,David,Raczkowski,M,71,Y,,Chaplin,CT,39,9:48:50

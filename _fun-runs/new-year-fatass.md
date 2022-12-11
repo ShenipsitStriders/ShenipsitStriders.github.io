@@ -4,7 +4,7 @@ title: New Year Fatass
 description: The New Year Fatass is our annual run to kick off the new year.
 event: 
   - name: New Year Fatass
-    date: "2022-01-01T08:00:00-05:00"
+    date: "2023-01-01T08:00:00-05:00"
 location:
   - address: 300 Valley Falls Rd, Vernon, CT
     map: https://www.google.com/maps/dir//Valley+Falls+Park,+300+Valley+Falls+Rd,+Vernon,+CT+06066/@41.8234, -72.4433,13z
@@ -40,5 +40,5 @@ The satisfaction of showing up for a run on New Year Day is all the reward a run
 
 We will be there, regardless of any weather conditions that fortune shares with us!
 
-## 2021 Results
+## 2022 Results
 Results found at: [http://shenipsitstriders.org/results/2022/new-year-fatass.html](http://shenipsitstriders.org/results/2022/new-year-fatass.html){:target="_blank" title="New Year Fatass Results"}

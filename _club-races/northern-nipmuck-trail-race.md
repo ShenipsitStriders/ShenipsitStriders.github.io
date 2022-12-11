@@ -4,7 +4,7 @@ title: Northern Nipmuck Trail Race
 description: The return of the classic Northern Nipmuck trail race
 event: 
   - name: Soapstone Mountain 24k
-    date: "2022-04-10T09:00:00-04:00"
+    date: "2023-03-26T09:00:00-04:00"
 image: striders3.jpg
 location:
   - address: Bigelow Hollow State Park, Union, CT
