@@ -40,5 +40,5 @@ The satisfaction of showing up for a run on New Year Day is all the reward a run
 
 We will be there, regardless of any weather conditions that fortune shares with us!
 
-## 2022 Results
-Results found at: [http://shenipsitstriders.org/results/2022/new-year-fatass.html](http://shenipsitstriders.org/results/2022/new-year-fatass.html){:target="_blank" title="New Year Fatass Results"}
+## 2023 Results
+Results found at: [http://shenipsitstriders.org/results/2023/new-year-fatass.html](http://shenipsitstriders.org/results/2023/new-year-fatass.html){:target="_blank" title="New Year Fatass Results"}
