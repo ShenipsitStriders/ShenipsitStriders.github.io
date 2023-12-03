@@ -18,4 +18,4 @@ collect additional information to help you make the most of your new membership.
 
 * * *
 
-[Join or Renew Today!](https://2023-shenipsit-striders-club-membership.cheddarup.com){: target="_blank" .btn .btn-primary}
+[Join or Renew Today!](https://2024-shenipsit-striders-club-membership.cheddarup.com){: target="_blank" .btn .btn-primary}
