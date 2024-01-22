@@ -3,8 +3,8 @@ layout: event
 title: Northern Nipmuck Trail Race
 description: The return of the classic Northern Nipmuck trail race
 event: 
-  - name: Soapstone Mountain 24k
-    date: "2023-03-26T09:00:00-04:00"
+  - name: Northern Nipmuck Trail Race
+    date: "2024-03-24T09:00:00-04:00"
 image: striders3.jpg
 location:
   - address: Bigelow Hollow State Park, Union, CT
@@ -16,6 +16,8 @@ race_director:
   - name: Tony Bonanno
     email: treas@shenipsitstriders.org
 results:
+  - year: 2023
+    url: https://ultrasignup.com/results_event.aspx?did=101217
   - year: 2022
     url: https://ultrasignup.com/results_event.aspx?did=93503
 blueblazedtrailrace: false
@@ -28,10 +30,7 @@ blueblazedtrailrace: false
 
 ## Parking
 
-Parking is available in Bigelow Hollow State Park. Please do not use the fisherman's lot near the entrance.
-NOTE: There is a $15 parking fee for out-of-state license plates!
-The race start is across the street from the park. There is a trail from the parking area that avoids walking along the road, so look for signs to direct you.
-
+Parking is available in Bigelow Hollow State Park. 
 
 ## Course
 
@@ -41,4 +40,4 @@ We will provide minimal aid at Two Pipes and Boston Hollow (miles 4, 8, 12). The
 
 ## Beneficiary
 
-Proceeds from the event (after covering minor costs) will go to fund Nipmuck Dave's bridge project to build a crossing at the north end of Breakneck Pond. The new bridge will be a welcome addition to the popular loop route around the pond in Bigelow Hollow State Park.
+Proceeds from the event are donated to local organizations that support our trails.
