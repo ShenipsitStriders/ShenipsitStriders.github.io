@@ -18,7 +18,7 @@ registration:
 
         We have never had to cancel due to weather. NipMuck Trail Marathon and Relay maintain a no-refunds policy, regardless of reason or fault.
 race_director:
-  - name: Dave Merkt
+  - name: Cherie Bilbie, Dave Hoople, Kelsey Eng
     email: nipmuck@shenipsitstriders.org
 results: 
   - year: 2023
