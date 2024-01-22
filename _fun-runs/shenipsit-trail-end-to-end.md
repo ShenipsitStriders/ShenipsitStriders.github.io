@@ -4,7 +4,7 @@ title: Shenipsit Trail End-to-End
 description: The Shenipsit Trail End-to-End is the annual run on the entirety of the blue-blazed Shenipsit Trail.
 event: 
   - name: Shenipsit Trail End-to-End
-    date: "2022-11-27"
+    date: "2024-12-01"
 registration:
 redirect_from:
   - /fun-runs/shenipsit-trail-end-to-end.htm
@@ -18,4 +18,4 @@ This year we will be running south to north, starting in East Hampton at the She
 Runners should dress appropriately for cold temperatures, be prepared for fueling and hydration needs during the run, and bring a headlamp for the start and finish.
 
 More detail to come as we finalize the logistics, aid stations and distance options
-, posted to the event Facebook page: [https://www.facebook.com/events/5312149002244020/](https://www.facebook.com/events/5312149002244020/){:target="_blank" title="Shenipsit Trail E2E 2021"}
+, posted to the Shenipsit Striders Facebook group. 
