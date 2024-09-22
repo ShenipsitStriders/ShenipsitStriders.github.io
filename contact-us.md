@@ -15,7 +15,7 @@ Secretary: [Jillian Ellefson](mailto:secretary@shenipsitstriders.org)
 
 Treasurer: [Tony Bonanno](mailto:treas@shenipsitstriders.org)
 
-Webmaster: [David Merkt](mailto:webmaster@shenipsitstriders.org)
+Webmaster: [Sundar Varadarajan](mailto:webmaster@shenipsitstriders.org)
 
 Publicity Chair: [Dominic Wilson](mailto:publicity@shenipsitstriders.org)
 
