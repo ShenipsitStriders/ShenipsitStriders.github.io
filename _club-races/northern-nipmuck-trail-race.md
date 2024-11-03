@@ -4,18 +4,20 @@ title: Northern Nipmuck Trail Race
 description: The return of the classic Northern Nipmuck trail race
 event: 
   - name: Northern Nipmuck Trail Race
-    date: "2024-03-24T09:00:00-04:00"
+    date: "2025-03-29T09:00:00-04:00"
 image: striders3.jpg
 location:
   - address: Bigelow Hollow State Park, Union, CT
     map: https://www.google.com/maps/place/Bigelow+Hollow+State+Park/@41.9937703,-72.1322512,16z
     name: Bigelow Hollow State Park
 registration: 
-  - url: https://ultrasignup.com/register.aspx?eid=15083
+  - url: https://ultrasignup.com/register.aspx?eid=119104
 race_director:
   - name: Tony Bonanno
     email: treas@shenipsitstriders.org
 results:
+  - year: 2024
+    url: https://ultrasignup.com/results_event.aspx?did=111711
   - year: 2023
     url: https://ultrasignup.com/results_event.aspx?did=101217
   - year: 2022
