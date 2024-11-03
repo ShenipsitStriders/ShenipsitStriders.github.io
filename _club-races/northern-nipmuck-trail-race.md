@@ -11,7 +11,7 @@ location:
     map: https://www.google.com/maps/place/Bigelow+Hollow+State+Park/@41.9937703,-72.1322512,16z
     name: Bigelow Hollow State Park
 registration: 
-  - url: https://ultrasignup.com/register.aspx?eid=119104
+  - url: https://ultrasignup.com/register.aspx?did=119104
 race_director:
   - name: Tony Bonanno
     email: treas@shenipsitstriders.org
