@@ -4,7 +4,7 @@ title: Nipmuck South Trail Race
 description: The **Nipmuck South Trail Race** is a **15 mi race** that for the most part follows the Fenton river.
 event: 
   - name: Nipmuck South Trail Race
-    date: "2024-06-09T09:00:00-04:00"
+    date: "2025-06-14T09:00:00-04:00"
 image: nipmucksouthgroup.jpg
 location: 
   - address: Bassetts Bridge Road, Mansfield, CT
@@ -18,6 +18,8 @@ race_director:
     email: nipmucksouth@shenipsitstriders.org
     phone: 860-617-6088
 results:
+  - year: 2024
+    url: https://ultrasignup.com/results_event.aspx?did=113020
   - year: 2023
     url: https://ultrasignup.com/results_event.aspx?did=101573
   - year: 2022
