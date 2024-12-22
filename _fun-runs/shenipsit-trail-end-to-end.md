@@ -4,7 +4,7 @@ title: Shenipsit Trail End-to-End
 description: The Shenipsit Trail End-to-End is the annual run on the entirety of the blue-blazed Shenipsit Trail.
 event: 
   - name: Shenipsit Trail End-to-End
-    date: "2024-12-01"
+    date: "2025-11-30"
 registration:
 redirect_from:
   - /fun-runs/shenipsit-trail-end-to-end.htm
