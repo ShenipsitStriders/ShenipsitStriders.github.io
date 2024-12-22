@@ -10,7 +10,7 @@ location:
   - address: Gulf Rd parking lot - Shenipsit State Forest
     map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
 registration: 
-   -url: http://ultrasignup.com/register.aspx?eid=12441
+   - url: http://ultrasignup.com/register.aspx?eid=12441
     add_info: |
         Online registration is required. Paid members of the Shenipsit Striders will receive a discount code which must be entered during registration. Registration will close at midnight on July 26.
 
