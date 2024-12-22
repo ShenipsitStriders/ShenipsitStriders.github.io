@@ -4,21 +4,23 @@ title: Soapstone Assault
 description: A **~5 mi race** around the base of Soapstone Mountain - a supercharged hill workout where runners climb the mountain a total of 6 times
 event: 
   - name: Soapstone Assault
-    date: "2024-07-28"
+    date: "2025-07-28"
 image: 0612Case.jpg
 location: 
   - address: Gulf Rd parking lot - Shenipsit State Forest
     map: https://www.google.com/maps/place/41%C2%B057'41.8%22N+72%C2%B024'30.9%22W/@41.961598,-72.408573,11z/data=!4m2!3m1!1s0x0:0x0?hl=en
 registration: 
   - url: http://ultrasignup.com/register.aspx?eid=12441
-    add_info: |
-        Online registration is required. Paid members of the Shenipsit Striders will receive a discount code which must be entered during registration. Registration will close at midnight on July 31.
+    add_info: 
+        Online registration is required. Paid members of the Shenipsit Striders will receive a discount code which must be entered during registration. Registration will close at midnight on July 26.
 
         ### Fees
 
         Pre-registered
         : $20.00 
 results: 
+- year: 2024
+    url: https://ultrasignup.com/results_event.aspx?did=115936
   - year: 2023
     url: https://ultrasignup.com/results_event.aspx?did=101507
   - year: 2022
