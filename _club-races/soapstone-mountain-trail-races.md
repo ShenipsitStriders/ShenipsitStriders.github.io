@@ -4,9 +4,9 @@ title: Soapstone Mountain Trail Races
 description: Two classic events taking place in Shenipsit State Forest - the Soapstone Mountain 24k and the 6k Jerry Stage Sampler
 event: 
   - name: Soapstone Mountain 24k
-    date: "2024-05-18T09:00:00-04:00"
+    date: "2025-05-18T09:00:00-04:00"
   - name: Jerry Stage 6k
-    date: "2024-05-18T09:15:00-04:00"
+    date: "2025-05-18T09:15:00-04:00"
 image: striders3.jpg
 location:
   - address: 93 Handel Rd, Stafford, CT
