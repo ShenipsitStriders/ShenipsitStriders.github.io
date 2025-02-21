@@ -14,7 +14,7 @@ location:
     name: Reddington Rock Riding Club
     location_url: http://reddingtonrockridingclub.org
 registration: 
-  - url: https://ultrasignup.com/register.aspx?did=114220
+  - url: https://ultrasignup.com/register.aspx?did=122692
 race_director:
   - name: Dan Tourtellotte
     email: soapstone@shenipsitstriders.org
