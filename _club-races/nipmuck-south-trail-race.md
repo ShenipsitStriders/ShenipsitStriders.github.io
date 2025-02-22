@@ -20,8 +20,6 @@ race_director:
 results:
   - year: 2024
     url: https://ultrasignup.com/results_event.aspx?did=113020
-  - year: 2024
-    url: https://ultrasignup.com/results_event.aspx?did=113020
   - year: 2023
     url: https://ultrasignup.com/results_event.aspx?did=101573
   - year: 2022
