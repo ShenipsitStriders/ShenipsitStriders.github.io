@@ -18,7 +18,7 @@ race_director:
     email: nipmucksouth@shenipsitstriders.org
     phone: 860-617-6088
 results:
- - year: 2024
+  - year: 2024
     url: https://ultrasignup.com/results_event.aspx?did=113020
   - year: 2024
     url: https://ultrasignup.com/results_event.aspx?did=113020
